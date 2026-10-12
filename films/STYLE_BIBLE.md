@@ -26,7 +26,7 @@ Text
 
 How the reference films use voice (from the transcripts of DISCIPLINE, DOPAMINE, ROOTS, Motivation Will Fail You)
 - No narrator. The story is told by silent on-screen captions plus music; the only voice is the villain whispering short lines ("Nobody cares." "Just one more." "It's too hard. You deserve a break." "You're not smart."). Occasional non-verbal sounds (a snort, "woo!"). ("Heat. Heat." in auto-transcripts is music misheard.)
-- Default for our films: the same. Silent captions, villain whispers, music carrying the feeling. A narrator reading the captions is an option only if the user asks for it for that film. ALONE has both versions.
+- Default for our films: the same. Silent captions, villain whispers, music carrying the feeling. A narrator reading the captions is an option only if the user asks for it for that film. ALONE has both versions; the user chose captions only.
 - Without a narrator the music must carry the quiet openings and caption cards: check those scenes first in the phone-level table.
 
 Sound and voices (local, free: Kokoro neural TTS)

@@ -2,7 +2,9 @@
 
 **Title:** ALONE | An Animated Short Film
 
-**Thumbnail:** `ALONE_thumbnail_v3_1280x720.png` (close-up of his frightened face: bloodshot wide eyes, sweat, heavy brows, lit from below by the phone; huge red "0." under bold white NEW MESSAGES). Checked at 320x180 next to the reference thumbnails.
+**Thumbnail:** `ALONE_thumbnail_v3_1280x720.png` (close-up of his frightened face: bloodshot wide eyes, sweat, heavy brows, the phone screen glowing muted blue and lighting the underside of his face; huge red "0." under bold white NEW MESSAGES). Checked at 320x180 next to the reference thumbnails.
+
+**Video:** `release/ALONE_master_1080p.mp4` (captions only, the official version).
 
 **Description**
 

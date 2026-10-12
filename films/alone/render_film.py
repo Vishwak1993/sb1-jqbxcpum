@@ -1,4 +1,4 @@
-"""Final render: 1080p30 master with the mix, a 720p phone copy, and checks on the finished files."""
+"""Final render: 1080p30 master with the mix (captions-only by default, `--narrated` for the narrated mix), a 720p phone copy, and checks on the finished files."""
 import json, subprocess, sys
 from pathlib import Path
 HERE = Path(__file__).resolve().parent
@@ -7,9 +7,11 @@ from studio.render import render_video, probe, mp4_sheet
 from timeline import DURATION
 
 out = HERE / "build"
-master = out / "ALONE_master_1080p.mp4"
-phone = out / "ALONE_phone_720p.mp4"
-misses = render_video(HERE / "scene.py", master, DURATION, audio=out / "mix.wav", crf=17, workers=4)
+NARRATED = "--narrated" in sys.argv
+master = out / ("ALONE_narrated_master_1080p.mp4" if NARRATED else "ALONE_master_1080p.mp4")
+phone = out / ("ALONE_narrated_phone_720p.mp4" if NARRATED else "ALONE_phone_720p.mp4")
+mix = out / ("mix_v2.wav" if NARRATED else "mix_captions_only.wav")
+misses = render_video(HERE / "scene.py", master, DURATION, audio=mix, crf=17, workers=4)
 print("contact misses during render:", len(misses))
 subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(master), "-vf", "scale=1280:720", "-c:v", "libx264", "-crf", "23",
                 "-preset", "medium", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(phone)], check=True)

@@ -114,8 +114,14 @@ def phone(ctx):
     c.save()
     c.translate(*PHONE)
     c.rotate(18)
-    rrect(ctx, -82, -230, 164, 330, 28, (24, 24, 30), (95, 95, 108), 7)
-    c.drawRect(skia.Rect.MakeXYWH(74, -214, 10, 300), fill((150, 195, 255)))
+    # seen at three-quarters: a thin dark back edge, then the glowing screen turned toward his face
+    rrect(ctx, -92, -230, 176, 330, 28, (24, 24, 30), (95, 95, 108), 7)
+    screen = skia.RRect.MakeRectXY(skia.Rect.MakeXYWH(-62, -212, 132, 294), 18, 18)
+    c.drawRRect(screen, skia.Paint(AntiAlias=True, Shader=skia.GradientShader.MakeLinear(
+        [(0, -212), (0, 82)], [col((150, 190, 245)), col((85, 125, 200))])))
+    c.drawRRect(screen, blurred(fill((140, 185, 255), 0.55), 22))
+    for i, w in enumerate((96, 70, 84)):  # faint chat-list rows, all empty: still waiting
+        c.drawRRect(skia.RRect.MakeRectXY(skia.Rect.MakeXYWH(-46, -170 + i * 62, w, 30), 12, 12), fill((210, 225, 255), 0.35))
     c.restore()
 
 
@@ -128,9 +134,13 @@ def scene(ctx):
     him.draw(ctx, HIP, -1, lean=0.10, face=False,
              hands={"near": (PHONE[0] + 18, PHONE[1] + 72), "far": (PHONE[0] + 64, PHONE[1] + 88)})
     shade_head(ctx, hx, hy, r)
+    c = ctx.c  # the screen's light spilling onto the underside of his face
+    c.save(); c.clipPath(skia.Path.Circle(hx, hy, r * 0.985), skia.ClipOp.kIntersect, True)
+    glow(ctx, hx - r * 0.55, hy + r * 0.85, r * 1.1, (140, 185, 255), 0.40)
+    c.restore()
     face(ctx, hx, hy, r)
     phone(ctx)
-    glow(ctx, PHONE[0] + 80, PHONE[1] - 60, 260, BLUE, 0.30)
+    glow(ctx, PHONE[0] + 40, PHONE[1] - 80, 420, BLUE, 0.38)
     draw_text(ctx, "NEW", 70, 250, 150, TEXT, align="left", face="LuckiestGuy-Regular.ttf")
     draw_text(ctx, "MESSAGES", 70, 390, 150, TEXT, align="left", face="LuckiestGuy-Regular.ttf")
     draw_text(ctx, "0.", 40, 960, 620, RED, align="left", face="LuckiestGuy-Regular.ttf", glow_rgb=RED_D)

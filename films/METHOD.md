@@ -23,4 +23,5 @@ Traps that cost time
 - `resample_poly` with odd rates is slow: rates are rounded to 50 Hz.
 - Some download hosts are blocked by the proxy; Google Fonts files come from raw.githubusercontent.com.
 - Thumbnails: draw the body with the rig, then `draw(face=False)` and paint a detailed close-up face in the thumbnail script (bigger eyes, veins, sweat, shading). Mottled skin texture above ~3% opacity reads as dirt.
-- `sound_build.py --captions-only` builds the reference-style mix (narrator and spoken dialogue removed, villain kept, music raised in the quiet scenes, +1.8 dB to match loudness). Swap it onto the finished picture with `ffmpeg -c:v copy`; no re-render needed.
+- `sound_build.py --captions-only` builds the reference-style mix (narrator and spoken dialogue removed, villain kept, music raised in the quiet scenes, +1.8 dB to match loudness). Swap it onto the finished picture with `ffmpeg -c:v copy`; no re-render needed. Captions only is the default release; `render_film.py --narrated` makes the alternate.
+- Videos are committed as plain git files (this environment's proxy blocks lfs.github.com, so Git LFS cannot upload). GitHub rejects files over 100 MB and warns over 50 MB: keep each release file under 100 MB.
