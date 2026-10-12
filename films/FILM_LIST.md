@@ -9,10 +9,11 @@
 - Package: title "ALONE | An Animated Short Film". Thumbnail v3 (`alone/release/ALONE_thumbnail_v3_1280x720.png`): close-up of his frightened face (bloodshot wide eyes, sweat, heavy raised brows, soft shading), three-quarter view, staring at his phone, its screen glowing muted blue and lighting the underside of his face; left side "NEW MESSAGES" in bold white over a huge red "0.". Description: the feeling line + the final caption pair (`alone/packaging/PUBLISHING_PACKAGE.md`).
 - Official version: captions only, reference style, just the villain's voice (`release/ALONE_master_1080p.mp4`, -17.5 LUFS). The user chose it over the narrated one. Narrated alternate kept on the same picture (`release/ALONE_narrated_master_1080p.mp4`).
 - Viewer results: not published yet.
+- Warning: very close to the reference film LONELINESS (same topic, 0 counter, birthday alone, spam as the only contact, "go first" ending passed to a stranger). See `references/REFERENCE_FILMS.md`. Decide with the user before publishing.
 
 Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING).
 
-Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, overthinking and "what if" anxiety.
+Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, loneliness, overthinking and "what if" anxiety.
 
 Ideas not made yet
 - Comparison: a race where every glance at the other lanes slows him down.

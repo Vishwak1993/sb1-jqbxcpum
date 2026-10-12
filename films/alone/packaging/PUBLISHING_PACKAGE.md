@@ -17,6 +17,7 @@ Everyone is waiting for someone else to message first.
 **Tags:** alone, animated short film, loneliness, animation, short film, reach out, friendship, modern life, 2d animation
 
 **Before publishing**
+- [ ] Decide with the user what to do about the overlap with the reference film LONELINESS (`films/references/REFERENCE_FILMS.md`)
 - [ ] Watch the master once on a phone with sound, start to finish
 - [ ] The first 5 seconds state the pain (no logo intro)
 - [ ] Thumbnail checked next to other thumbnails at small size

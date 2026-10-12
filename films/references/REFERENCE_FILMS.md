@@ -5,6 +5,7 @@ Contact sheets (one frame every 3 s, timestamped) are in `references/films/`.
 
 Earlier set (studied with transcripts): ROOTS, Motivation Will Fail You, DISCIPLINE, DOPAMINE.
 Second set below: READY, How One Old Book Fixed His Life (STOIC), You're Not Lazy. You're Too Comfortable. (COMFORT ZONE), ONE LAST TIME, Stop Overthinking (OVERTHINKING; no transcript, studied from the picture).
+Third: Loneliness (studied with its transcript, after ALONE was finished).
 
 ## READY (2:40) `ready_*.jpg`
 - Pain: waiting to feel ready before starting (guitar, open mic).
@@ -62,6 +63,19 @@ Second set below: READY, How One Old Book Fixed His Life (STOIC), You're Not Laz
 - Mirror ending: a younger kid in a red cap, "what if they say no?". He hands him one note.
 - Title: OVERTHINKING / "You can't think your way to the answer." / "Go find out." (red)
 
+## LONELINESS: Loneliness | An Animated Short Film (2:31) `lonely_*.jpg`
+- Pain: loneliness; days without speaking to anyone.
+- Opening card: "WORDS SAID TODAY: 0", then "Some days he didn't say a single word." A phone feed of friends out together, a delivery at the door, friends in coloured beanies passing his window.
+- Device: the WORDS SAID TODAY counter, top left, all film. 0 for days, 1 for "thanks" at the door.
+- Villain lines: "nobody wants to hear from you", "see?", "don't.", "he's done with you".
+- Low point: a birthday cupcake with one candle, alone. His phone rings, "hello?!", and it is an automated message from his phone provider ("Press one for an exclusive offer."). "It was the longest conversation he'd had in months."
+- Turn: "He only had one life." He opens the door against the villain's "don't." Cafe ("a coffee, please"), then a run club where he meets Leo (orange beanie). The counter climbs: 10, 25, 54, 120, 353. "Every word got a little easier."
+- Setback: Leo says "my parents are splitting up". He panics and answers "...cool?". Leo leaves, the counter drops back to 0, and the villain returns. Leo texts "you good? you coming? you ok?"
+- Repair: Leo calls; he answers: "leo. i'm sorry." "i said cool. i panicked." The villain cracks with gold light. The counter runs to 1,204.
+- Mirror ending: at the run club a quiet newcomer (green beanie) has his own "WORDS SAID TODAY: 0" and a small villain. He speaks to him first and the newcomer's counter goes to 1. "Someone just had to say the first word."
+- No title card; the film ends on the Skool and like/subscribe end screens.
+- Worth learning: the relationship nearly breaks after the turn (a second low point), and the repair is the real climax. The counter going up fast is a payoff on its own.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
@@ -75,5 +89,6 @@ Second set below: READY, How One Old Book Fixed His Life (STOIC), You're Not Laz
 10. Heavy topics end with a helpline card. Some films end with a like/subscribe/Skool end screen.
 
 ## Overlaps with our films (check before every pitch)
+- ALONE is very close to LONELINESS: the same topic, a 0 counter as the device (NEW MESSAGES vs WORDS SAID TODAY), a birthday alone with a single candle, a spam call or notification as the only contact, a villain line about nobody wanting him, and a "go first / say the first word" ending where he passes it on to a stranger. ALONE was finished before this film was studied, but it would read as a copy of it on the same channel. Do not publish ALONE as it is without deciding this with the user.
 - ALONE and OVERTHINKING both use an unanswered chat with a friend called Sam who wears a yellow beanie. ALONE was made before this film was studied: the name and hat are a coincidence, but a future film must not reuse them, and ALONE's Sam could be renamed or recoloured if wanted.
-- The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone and addiction are taken too.
+- The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone, addiction and loneliness are taken too.
