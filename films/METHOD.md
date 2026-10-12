@@ -22,3 +22,4 @@ Traps that cost time
 - Lying poses: place hands and feet relative to the actual shoulder/hip from `joints()`, not guessed points.
 - `resample_poly` with odd rates is slow: rates are rounded to 50 Hz.
 - Some download hosts are blocked by the proxy; Google Fonts files come from raw.githubusercontent.com.
+- Thumbnails: draw the body with the rig, then `draw(face=False)` and paint a detailed close-up face in the thumbnail script (bigger eyes, veins, sweat, shading). Mottled skin texture above ~3% opacity reads as dirt.

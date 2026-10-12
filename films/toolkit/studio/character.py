@@ -102,7 +102,8 @@ class Character:
 
     def draw(self, ctx, hip, facing=1, lean=0.0, head_tilt=0.0, hands=None, feet=None, bend=None,
              expr="neutral", look=(0, 0), blink=False, screen_glow=0.0, near_arm_front=True, alpha=1.0,
-             mouth_open=0.0, tear=0.0, glow_rgb=None):
+             mouth_open=0.0, tear=0.0, glow_rgb=None, face=True):
+        """face=False draws a blank head so a close-up (e.g. a thumbnail) can paint its own detailed face."""
         J = self.joints(hip, facing, lean, head_tilt, hands, feet, bend, ctx.frame)
         if alpha < 1:
             ctx.c.saveLayerAlpha(None, int(alpha * 255))
@@ -116,14 +117,14 @@ class Character:
         self._limb(ctx, L["leg_near"], (key, "ln"))
         if not near_arm_front:
             self._limb(ctx, L["arm_near"], (key, "an"))
-        self._head(ctx, J, expr, look, blink, screen_glow, mouth_open, tear)
+        self._head(ctx, J, expr, look, blink, screen_glow, mouth_open, tear, face)
         if near_arm_front:
             self._limb(ctx, L["arm_near"], (key, "an"))
         if alpha < 1:
             ctx.c.restore()
         return J
 
-    def _head(self, ctx, J, expr, look, blink, screen_glow, mouth_open, tear):
+    def _head(self, ctx, J, expr, look, blink, screen_glow, mouth_open, tear, face=True):
         s = self.scale
         hx, hy = J["head"]
         f = J["facing"]
@@ -133,6 +134,8 @@ class Character:
         ctx.c.drawPath(path, stroke(LINE, OUT * s))
         if self.extra:
             self.extra(ctx, hx, hy, f, s)
+        if not face:
+            return
         e = EXPR.get(expr, EXPR["neutral"])
         # face sits toward the facing side (three-quarter view)
         fx = hx + f * 14 * s + look[0] * 4 * s
