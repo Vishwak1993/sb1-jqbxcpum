@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# film studio intermediates
+films/**/build/
+films/**/voice_cache/
+films/**/__pycache__/
+*.onnx
+voices-v1.0.bin

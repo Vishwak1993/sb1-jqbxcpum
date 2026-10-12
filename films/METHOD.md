@@ -1,0 +1,24 @@
+# Method
+
+Steps (always in this order)
+1. Pitch: a pain (not a virtue), a villain line, one device that is wrong for most of the film and changes meaning at the turn.
+2. Script every spoken line in `lines.py`, generate the voices, read their real lengths.
+3. Timeline in `timeline.py`: scenes, cue starts, and every event the sound must hit. Picture and sound both read it. Check each line fits its window.
+4. Build scene by scene. After each: `python check.py sheet <ids>` and look at the 12 frames with the sound off. Fix, then move on.
+5. Contact check: `python check.py contact` until it prints "no misses". Fix by moving the character or the target, never by hiding a hand.
+6. Sound: `python sound_build.py` prints loudness per scene through a 300 Hz high-pass (what a phone plays). Raise any scene more than ~5-6 dB under the median.
+7. Render: `python render_film.py` (1080p30 CRF 17 + AAC 256k, 720p phone copy, contact sheet pulled from the finished mp4).
+8. Package (thumbnail from the film's own code, title, description) and update STYLE_BIBLE / METHOD / FILM_LIST.
+
+Commands run from the film folder with the venv python. Set `KOKORO_DIR` to the folder with `kokoro-v1.0.onnx` and `voices-v1.0.bin` (downloaded from the kokoro-onnx GitHub releases).
+
+Traps that cost time
+- skia-python needs `libegl1` and `libgl1` on Linux.
+- Knee/elbow direction is a sign: legs bend `-facing`, arms bend `+facing`. Check a seated pose in the first test frame.
+- A seated foot must reach the floor: seat ~90 px above the floor; `seated()` computes the foot from the leg length.
+- Sub-limb calls (`joints()` used to place props) report misses at frame 0: the contact check re-stamps them with the real frame.
+- Wide sets read as tiny on a phone. Zoom in from the first sheet.
+- Wall clocks, windows and labels collide with captions and villain heads. Check text placement on every sheet.
+- Lying poses: place hands and feet relative to the actual shoulder/hip from `joints()`, not guessed points.
+- `resample_poly` with odd rates is slow: rates are rounded to 50 Hz.
+- Some download hosts are blocked by the proxy; Google Fonts files come from raw.githubusercontent.com.
