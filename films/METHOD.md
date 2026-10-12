@@ -1,7 +1,7 @@
 # Method
 
 Steps (always in this order)
-1. Pitch: a pain (not a virtue), a villain line, one device that is wrong for most of the film and changes meaning at the turn.
+1. Pitch: a pain (not a virtue), a villain line, one device that is wrong for most of the film and changes meaning at the turn. Check the topic, device and side characters against `references/REFERENCE_FILMS.md` first.
 2. Script every spoken line in `lines.py`, generate the voices, read their real lengths.
 3. Timeline in `timeline.py`: scenes, cue starts, and every event the sound must hit. Picture and sound both read it. Check each line fits its window.
 4. Build scene by scene. After each: `python check.py sheet <ids>` and look at the 12 frames with the sound off. Fix, then move on.

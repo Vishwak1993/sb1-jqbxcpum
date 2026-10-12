@@ -10,9 +10,10 @@
 - Official version: captions only, reference style, just the villain's voice (`release/ALONE_master_1080p.mp4`, -17.5 LUFS). The user chose it over the narrated one. Narrated alternate kept on the same picture (`release/ALONE_narrated_master_1080p.mp4`).
 - Viewer results: not published yet.
 
-Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal.
+Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING).
+
+Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, overthinking and "what if" anxiety.
 
 Ideas not made yet
 - Comparison: a race where every glance at the other lanes slows him down.
-- Anxiety: a "what if" counter that multiplies one small worry into a storm.
 - Failure: cracks that fill with gold.
