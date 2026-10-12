@@ -15,6 +15,7 @@ from timeline import DURATION, SCENES, CUES, EVENTS, TYPED, TYPE_T0, TYPE_T1  # 
 B = HERE / "build"
 LEN = json.load(open(B / "line_lengths.json"))
 mix = S.Mix(DURATION)
+CAPTIONS_ONLY = "--captions-only" in sys.argv  # reference style: captions are silent, only the villain speaks
 
 # ---- the theme: Em - C - G - D, music-box melody --------------------------------
 CH = {"Em": [52, 55, 59], "C": [48, 52, 55], "G": [43, 50, 55, 59], "D": [50, 54, 57]}
@@ -69,6 +70,13 @@ chords(5.0, 16.0, bar70, 0.28, "single")
 mix.add("music", 16.2, S.pad([28, 40], 15.0, 0.7, 380, seed=7))  # villain drone (low)
 mix.add("music", 16.2, S.pad([52, 53], 15.0, 0.12, 900, seed=8))  # mid-range edge so phones hear it
 mix.add("music", 31.6, S.piano(52, 3, 0.3))
+
+if CAPTIONS_ONLY:  # no narrator: the music carries the opening and the caption card
+    melody(0.8, beat70 * 1.2, 0.42, notes=MELODY[:3])
+    pads(0.0, 34.0, bar70, 0.30, 1500)
+    chords(5.0, 14.0, bar70, 0.30, "block")
+    mix.add("music", 31.0, S.pad(CH["Em"], 3.4, 0.6, 1800, seed=30))
+    mix.add("music", 31.2, S.music_box(76, 2.5, 0.5))
 
 # 34-64 grind montage: hollow 80 bpm arpeggio, one chord per cut
 chords(34.0, 64.0, bar80, 0.32, "arp")
@@ -172,6 +180,8 @@ while t < 115.2:
 # ---- voices ---------------------------------------------------------------------
 speech = []
 for k, t0 in CUES.items():
+    if CAPTIONS_ONLY and (k.startswith("N") or k == "HIM"):
+        continue
     x = np.load(B / f"line_{k}.npy")
     gain = {"V": 0.85, "N": 1.0}.get(k[0], 1.0)
     if k == "MOM":
@@ -188,8 +198,8 @@ end = int((DURATION - 2.0) * S.SR)
 for b in mix.buses.values():
     b[end:] *= np.linspace(1, 0, len(b) - end)
 
-out = mix.render(-2.5, gain_db=3.0)
-S.write_wav(B / ("mix_v2.wav" if "--v2" in sys.argv else "mix.wav"), out)
+out = mix.render(-2.5, gain_db=4.8 if CAPTIONS_ONLY else 3.0)
+S.write_wav(B / ("mix_captions_only.wav" if CAPTIONS_ONLY else ("mix_v2.wav" if "--v2" in sys.argv else "mix.wav")), out)
 
 rows = S.phone_levels(out, [(s[0], s[1], s[2]) for s in SCENES])
 med = float(np.median([r[3] for r in rows]))

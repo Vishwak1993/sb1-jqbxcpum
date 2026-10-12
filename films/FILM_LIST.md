@@ -7,6 +7,7 @@
 - Shape: birthday wound (0:00-0:22) → lie to mum (0:22-0:31) → 30 s montage, DAY 3-41 → spam notification, red 0 (1:04) → window reveal (1:21) → final fight, typing "hey. i miss you." (1:36) → send (1:55) → reply, café → mirror: he messages a stranger's lit window → title.
 - Final caption pair: "Everyone is waiting for someone else." / "Go first."
 - Package: title "ALONE | An Animated Short Film". Thumbnail v3 (`alone/release/ALONE_thumbnail_v3_1280x720.png`): close-up of his frightened face (bloodshot wide eyes, sweat, heavy raised brows, soft shading), three-quarter view, staring at his phone and lit from below by its blue glow; left side "NEW MESSAGES" in bold white over a huge red "0.". Description: the feeling line + the final caption pair (`alone/packaging/PUBLISHING_PACKAGE.md`).
+- Two soundtracks on the same picture: narrated (`release/ALONE_master_1080p.mp4`) and reference style, captions only with just the villain's voice (`release/ALONE_captions_only_master_1080p.mp4`). Both -17.5 LUFS.
 - Viewer results: not published yet.
 
 Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal.
