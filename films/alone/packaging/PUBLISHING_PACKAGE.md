@@ -2,7 +2,7 @@
 
 **Title:** ALONE | An Animated Short Film
 
-**Thumbnail:** `ALONE_thumbnail_1280x720.png` (his tearful face lit by the phone, a red "0." under NEW MESSAGES). Checked at 320×180: face and "0." still read.
+**Thumbnail:** `ALONE_thumbnail_v2_1280x720.png` (close-up: his anxious, wide-eyed face lit from below by the phone; huge red "0." under NEW MESSAGES). Checked at 320×180: words, face and "0." all read.
 
 **Description**
 

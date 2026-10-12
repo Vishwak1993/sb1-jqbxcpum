@@ -49,6 +49,7 @@ EXPR = {
     "hurt":       dict(brow=(-8, 4), eye=0.6, mouth=("curve", -6)),
     "closed":     dict(brow=(-3, 2), eye=0.0, mouth=("line", 0.0)),
     "hopeful":    dict(brow=(-5, -1), eye=1.05, mouth=("curve", 2)),
+    "anxious":    dict(brow=(-9, 2), eye=1.4, mouth=("curve", -2)),
 }
 
 

@@ -6,7 +6,7 @@
 - Device: NEW MESSAGES counter stuck at 0. Turn: every window across the street holds someone alone with their own 0. Payoff: the first 1, in gold.
 - Shape: birthday wound (0:00-0:22) → lie to mum (0:22-0:31) → 30 s montage, DAY 3-41 → spam notification, red 0 (1:04) → window reveal (1:21) → final fight, typing "hey. i miss you." (1:36) → send (1:55) → reply, café → mirror: he messages a stranger's lit window → title.
 - Final caption pair: "Everyone is waiting for someone else." / "Go first."
-- Package: "ALONE | An Animated Short Film", thumbnail = his tearful face + red "0.".
+- Package: "ALONE | An Animated Short Film", thumbnail v2 = anxious close-up lit by the phone + huge red "0." and bold NEW MESSAGES.
 - Viewer results: not published yet.
 
 Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal.
