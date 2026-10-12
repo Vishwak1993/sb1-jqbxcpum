@@ -29,3 +29,9 @@ Sound and voices (local, free: Kokoro neural TTS)
 - Protagonist: `am_michael`, speed 0.92. Phone voices: `af_bella` through a 350-3200 Hz phone band.
 - Villain: `am_onyx` whispered: pitched down to 0.84, breath noise that follows the voice, a lower double, a little reverb.
 - One 4-chord theme per film that changes role with the story. Every visible action gets a sound on its exact frame. Every low sound gets a mid-range layer so phones play it. 1-2 s near-silence (heartbeat only) before the biggest hit.
+
+Thumbnails (study `references/thumbnails/`; learn from them, never copy a composition, pose, prop or wording)
+- Reference set: Day One Films channel (DAY 1., DOPAMINE., DISCIPLINE., WHAT IF?, JUST SHOW UP., WAKE UP., ONE LAST TIME., READ THIS.). Use them for principles only; our own films keep our own character, devices and words.
+- What they do: 1-3 words in huge, thick, rounded white caps with a full stop or question mark, across the top. One face, close up, filling about half the frame, with one pushed emotion (bloodshot eyes, sweat drops, heavy brows). One story object carries the colour (red 5:00, glowing phone, red F). One light source on the face. Dark background.
+- They are more rendered than the films: soft shading, texture and detail on the face and object. A thumbnail may push detail beyond the film's flat look, as long as it is still the same character.
+- Ours: built from the film's own character code, then pushed. The hook word in white, the story number or object in our accent colour. Never show the payoff. Always check at 320x180 next to the reference row before shipping.

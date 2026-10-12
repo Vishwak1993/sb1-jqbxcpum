@@ -10,6 +10,7 @@ Before any film work read, in order:
 Layout
 - `toolkit/studio/` reusable code: `core.py` (wobble, glow, text, grain, letterbox, camera), `character.py` (rig, faces, IK, contact misses), `props.py` (furniture, phone UI, HUD, villain), `sound.py` (instruments, effects, mixing, phone levels), `voice.py` (neural voices), `render.py` (parallel render, contact sheets).
 - `films/<title>/` one folder per film: `lines.py`, `timeline.py` (the only place times live), `scene.py`, `sound_build.py`, `check.py`, `render_film.py`, `packaging/`, `release/`.
+- `references/thumbnails/` thumbnails from the reference channel: study material for packaging, never to be copied.
 - Film-specific code never goes into `toolkit/`.
 
 Never jump from an idea to a final render. Pitch, story + timeline, scene sheets, contact check, sound, render, check the mp4 itself, package, then update the three files above.
