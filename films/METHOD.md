@@ -30,3 +30,5 @@ Traps that cost time
 - Many thin lines converging on a character read as a red curtain past ~14. Cap what is drawn and let the HUD carry the real number; draw strings to the far side of the body behind him, only the near hand and the head in front.
 - `props.villain()` returns its head and hand points, also when invisible (alpha 0), so a prop can hang from its hands.
 - Full 160 s render at 1080p with 4 workers takes about 11 minutes; run it in the background.
+- Reusable pieces from NO. (speech bubbles, `free_hands`, `lift`, `floor_sit`, door, dog, box, street, office, full-screen phone) now live in `toolkit/studio/extras.py`; new films import them from there. Sound gained `pluck`, `knock`, `scribble`, `clink` and `ringtone`.
+- A 180 s master at CRF 17 is about 100 MB, GitHub's hard limit: render long films at CRF 18.

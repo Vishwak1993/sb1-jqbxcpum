@@ -88,6 +88,43 @@ def pluck(note, dur=1.0, vel=0.5, bright=1.0, seed=0):
     return (x * vel * 0.3).astype(np.float32)
 
 
+def clink(vel=0.5, seed=0, bounces=3):
+    """A glass marble landing: bright inharmonic pings with a few smaller bounces."""
+    n = int(0.9 * SR)
+    out = np.zeros(n, np.float32)
+    r = rng(500 + seed)
+    base = 2600 + r.uniform(-300, 300)
+    for b in range(bounces):
+        k = int((0.0 + 0.11 * b + 0.03 * b * b) * SR)
+        tt = np.arange(n - k) / SR
+        a = 0.55 ** b
+        x = np.zeros(n - k, np.float32)
+        for m, amp in ((1.0, 1.0), (1.59, 0.5), (2.43, 0.3), (3.7, 0.15)):
+            x += amp * np.sin(2 * np.pi * base * m * tt) * np.exp(-tt * (40 + 25 * m))
+        x += bp(r.normal(0, 1, n - k).astype(np.float32), 2000, 8000) * np.exp(-tt * 300) * 0.3
+        out[k:] += x * a
+    return (out * vel * 0.45).astype(np.float32)
+
+
+def ringtone(dur=2.0, vel=0.4):
+    """A phone ringing: a two-note marimba-like ring in pairs, mid-range so phone speakers play it."""
+    n = int(dur * SR)
+    out = np.zeros(n, np.float32)
+    t = 0.0
+    while t < dur - 0.2:
+        for i, note in enumerate((76, 83)):
+            f = hz(note)
+            k = int((t + i * 0.13) * SR)
+            m = min(int(0.3 * SR), n - k)
+            if m <= 0:
+                continue
+            tt = np.arange(m) / SR
+            x = (np.sin(2 * np.pi * f * tt) + 0.4 * np.sin(2 * np.pi * f * 4 * tt) * np.exp(-tt * 30)) * np.exp(-tt * 12)
+            out[k:k + m] += x.astype(np.float32)
+        t += 0.9
+    return (out * vel * 0.4).astype(np.float32)
+
+
 def knock(vel=0.6, times=(0, 0.18)):
     """Knuckles on a wooden door: knocks with a woody mid-range body."""
     n = int(0.6 * SR)

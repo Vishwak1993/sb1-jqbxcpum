@@ -25,7 +25,19 @@
 - Viewer results: not published yet.
 - Cast: Dan (round glasses), Ana (teal scarf), the boss (blue tie), the neighbour (flat cap).
 
-Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff.
+## 003 · LATER. (3:00)
+- Pain: your dad calls every Sunday and you keep saying next week.
+- Villain line: "later." Also: "he understands." "you're busy." "next month." "see? he doesn't mind." "it'll be awkward now." "he stopped calling for a reason."
+- Device: a jar of marbles on his shelf, one for every Sunday his dad has left (the sum in the hook: Dad is 71, maybe 15 more years, 15 x 52 = 780). Every Sunday one falls out, whether he goes or not; SUNDAYS LEFT counts down. Turn: he cups his hands over the jar and they still slip out; inside one marble is a memory of fishing with Dad: he can't stop them falling, only choose what they are for. Payoff: this Sunday's marble falls gold into a new jar, WITH DAD.
+- Stakes: Dad sets two plates every Sunday and puts the second one back; at the payoff he takes it out again.
+- Shape: black card → four declined calls, a marble each (0:03-0:15) → the sum (0:15-0:24) → "later." decline (0:24) → Dad's kitchen, "next week for sure!" (0:33-0:46) → years 1-6 (0:46-1:16) → Sunday 10:00, no call; "i'll stop calling on sundays" (1:16) → marbles keep falling → the turn (1:32-1:52) → Sunday morning, URGENT email, the villain at full size, he slams the laptop shut (2:10) → Dad's door → "son?" → two plates, cooking → the gold marble → mirror: Maya answers her mum → title.
+- Final caption pair: "You have fewer Sundays than you think." / "Go now."
+- Built with the Last Soul lessons: a doable action (go on Sunday), the stakes woven into the plot (Dad's second plate, Maya planted in year 1), a planted prop paid off (the plate, the jar), a relapse before the final fight (the URGENT email).
+- Package: title "LATER. | An Animated Short Film". Thumbnail (`later/release/LATER_thumbnail_1280x720.png`): his guilty, frightened face lit by a phone that faces us, "DAD calling...", thumb on decline; "LATER." huge in white.
+- Cast: Dad (grey moustache, an old dog), Maya (dark bun).
+- Viewer results: not published yet.
+
+Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff, a jar of marbles, a declined call as the hook, a parent as the stakes.
 
 Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, loneliness, overthinking and "what if" anxiety. Last Soul has taken tiny habits (1 MINUTE) and anger at home (TEMPER).
 
