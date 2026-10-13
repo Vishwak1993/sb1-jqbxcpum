@@ -34,6 +34,7 @@
 - Final caption pair: "You have fewer Sundays than you think." / "Go now."
 - Built with the Last Soul lessons: a doable action (go on Sunday), the stakes woven into the plot (Dad's second plate, Maya planted in year 1), a planted prop paid off (the plate, the jar), a relapse before the final fight (the URGENT email).
 - Package: title "LATER. | An Animated Short Film". Thumbnail (`later/release/LATER_thumbnail_1280x720.png`): his guilty, frightened face lit by a phone that faces us, "DAD calling...", thumb on decline; "LATER." huge in white.
+- Release: `later/release/LATER_master_1080p.mp4` (-18.0 LUFS, 81 MB), phone copy and a 19 MB download copy.
 - Cast: Dad (grey moustache, an old dog), Maya (dark bun).
 - Viewer results: not published yet.
 
