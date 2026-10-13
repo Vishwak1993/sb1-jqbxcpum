@@ -72,6 +72,44 @@ def music_box(note, dur=1.2, vel=0.5):
     return (x * vel * 0.28).astype(np.float32)
 
 
+def pluck(note, dur=1.0, vel=0.5, bright=1.0, seed=0):
+    """Plucked string (pizzicato-like): harmonics that die faster the higher they are, plus a pick noise."""
+    f = hz(note)
+    n = int(dur * SR)
+    t = np.arange(n) / SR
+    x = np.zeros(n, np.float32)
+    for k in range(1, 11):
+        if f * k > 16000:
+            break
+        x += (1.0 / k) ** (1.4 / bright) * np.sin(2 * np.pi * f * k * t + k) * np.exp(-t * (2.5 + 1.6 * k / bright))
+    pick = bp(rng(200 + seed).normal(0, 1, n).astype(np.float32), 1500, 6000) * np.exp(-t * 300) * 0.25
+    x = (x + pick) * np.minimum(1, t / 0.002)
+    x[-int(0.02 * SR):] *= np.linspace(1, 0, int(0.02 * SR))
+    return (x * vel * 0.3).astype(np.float32)
+
+
+def knock(vel=0.6, times=(0, 0.18)):
+    """Knuckles on a wooden door: knocks with a woody mid-range body."""
+    n = int(0.6 * SR)
+    out = np.zeros(n, np.float32)
+    for i, off in enumerate(times):
+        k = int(off * SR)
+        tt = np.arange(n - k) / SR
+        body = np.sin(2 * np.pi * 180 * tt) * np.exp(-tt * 40) + np.sin(2 * np.pi * 420 * tt) * np.exp(-tt * 60) * 0.6
+        click = bp(rng(300 + i).normal(0, 1, n - k).astype(np.float32), 800, 3500) * np.exp(-tt * 120) * 0.6
+        out[k:] += (body + click).astype(np.float32)
+    return (out * vel * 0.6).astype(np.float32)
+
+
+def scribble(dur=0.6, vel=0.4, seed=0):
+    """Pen on paper: scratchy noise in short strokes."""
+    n = int(dur * SR)
+    t = np.arange(n) / SR
+    x = bp(rng(400 + seed).normal(0, 1, n).astype(np.float32), 2500, 7000)
+    strokes = 0.5 + 0.5 * np.sin(2 * np.pi * 9 * t) ** 2
+    return (x * strokes * np.sin(np.pi * t / dur) * vel * 0.5).astype(np.float32)
+
+
 def pad(notes, dur, vel=0.4, bright=1800, seed=0):
     n = int(dur * SR)
     t = np.arange(n) / SR

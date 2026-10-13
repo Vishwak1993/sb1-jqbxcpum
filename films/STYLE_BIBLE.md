@@ -5,7 +5,7 @@ World
 - Finish on every frame: line boil (outlines redrawn every 3 frames), ~4.5% grain, soft vignette, thin letterbox bars. All text stays inside the bars.
 
 Colour (absolute rules)
-- Red = the villain and failure only (villain glow, villain whispers, a failed counter, the title underline).
+- Red = the villain and failure only (villain glow, villain whispers, a failed counter, the title underline, and anything the villain controls, like NO.'s puppet strings).
 - Gold = connection and truth. It does not appear until the payoff. Screens are muted blue.
 - Everything else is muted grey/blue. If a colour isn't in this list, it isn't in the film.
 

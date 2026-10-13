@@ -182,15 +182,15 @@ def bubble(ctx, x, y, text, mine=False, size=34, a=1.0, maxw=330, rgb=None):
 # ---- the villain -------------------------------------------------------------
 def villain(ctx, x, floor_y, scale=1.0, alpha=1.0, grin=1.0, lean=0.0, key="villain", reach=None, crack=0.0,
             arms_up=0.0):
-    """Dark person-shaped silhouette with a red glow, standing on floor_y. reach: a long arm to a point."""
-    if alpha <= 0.01 or scale <= 0.01:
-        return
+    """Dark person-shaped silhouette with a red glow, standing on floor_y. reach: a long arm to a point.
+    Returns the head and hand points (e.g. to hang a puppet's control bar from its hands)."""
+    if scale <= 0.01:
+        return None
     c = ctx.c
     s = scale
     hx = x + lean * 40 * s
     hy = floor_y - 330 * s
     ink = (16, 8, 9)
-    c.saveLayerAlpha(None, int(alpha * 255))
     body = [(x - 46 * s, floor_y), (x - 52 * s, floor_y - 120 * s), (x - 66 * s, floor_y - 230 * s),
             (hx - 54 * s, hy + 46 * s), (hx, hy + 30 * s), (hx + 54 * s, hy + 46 * s),
             (x + 66 * s, floor_y - 230 * s), (x + 52 * s, floor_y - 120 * s), (x + 46 * s, floor_y)]
@@ -207,6 +207,10 @@ def villain(ctx, x, floor_y, scale=1.0, alpha=1.0, grin=1.0, lean=0.0, key="vill
             el = (sh[0] + side * (16 + 40 * up) * s, sh[1] + (90 - 150 * up) * s)
             hd = (el[0] + side * (8 + 50 * up) * s, el[1] + (95 - 120 * up) * s)
             arms.append([sh, el, hd])
+    geometry = {"head": (hx, hy), "hands": (arms[0][2], arms[1][2])}
+    if alpha <= 0.01:
+        return geometry
+    c.saveLayerAlpha(None, int(alpha * 255))
     for sp in shapes:
         c.drawPath(sp, blurred(fill(RED, 0.7), 24 * s))
     for a in arms:
@@ -234,6 +238,7 @@ def villain(ctx, x, floor_y, scale=1.0, alpha=1.0, grin=1.0, lean=0.0, key="vill
             c.drawLine(p0[0], p0[1], p1[0], p1[1], blurred(stroke(GOLD, 9 * s * crack), 4))
             c.drawLine(p0[0], p0[1], p1[0], p1[1], stroke((255, 236, 180), 4 * s * crack))
     c.restore()
+    return geometry
 
 
 def villain_shards(ctx, x, floor_y, scale, k, key="villain"):

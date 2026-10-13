@@ -25,3 +25,8 @@ Traps that cost time
 - Thumbnails: draw the body with the rig, then `draw(face=False)` and paint a detailed close-up face in the thumbnail script (bigger eyes, veins, sweat, shading). Mottled skin texture above ~3% opacity reads as dirt.
 - `sound_build.py --captions-only` builds the reference-style mix (narrator and spoken dialogue removed, villain kept, music raised in the quiet scenes, +1.8 dB to match loudness). Swap it onto the finished picture with `ffmpeg -c:v copy`; no re-render needed. Captions only is the default release; `render_film.py --narrated` makes the alternate.
 - Videos are committed as plain git files (this environment's proxy blocks lfs.github.com, so Git LFS cannot upload). GitHub rejects files over 100 MB and warns over 50 MB: keep each release file under 100 MB.
+- Hands that hold nothing fixed (or carry their prop with them) go through `free_hands()` (see `no/scene.py`): it keeps the target within arm's reach so the contact check stays clean without hiding a hand. Draw the prop at the returned hand point (`J["limbs"]["arm_near"][2]`). Hands on desks need real targets moved closer instead.
+- A puppet jerk lifts the hip: lift the feet by the same amount (`lift()`), or they miss the floor.
+- Many thin lines converging on a character read as a red curtain past ~14. Cap what is drawn and let the HUD carry the real number; draw strings to the far side of the body behind him, only the near hand and the head in front.
+- `props.villain()` returns its head and hand points, also when invisible (alpha 0), so a prop can hang from its hands.
+- Full 160 s render at 1080p with 4 workers takes about 11 minutes; run it in the background.
