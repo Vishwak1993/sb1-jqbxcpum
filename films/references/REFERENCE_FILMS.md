@@ -76,7 +76,7 @@ Third: Loneliness (studied with its transcript, after ALONE was finished).
 - No title card; the film ends on the Skool and like/subscribe end screens.
 - Worth learning: the relationship nearly breaks after the turn (a second low point), and the repair is the real climax. The counter going up fast is a payoff on its own.
 
-## A second channel: Last Soul (@lastsouloriginal, "short animated films about the habits we just can't seem to break")
+## A second channel: Last Soul (@lastsoulorigin, "short animated films about the habits we just can't seem to break")
 Same genre, a different look, and already viral (40K and 16K views within days on a 1.2K-subscriber channel). Studied for inspiration, same rule: never copy.
 
 ### 1 MINUTE (4:59) `lastsoul_minute_*.jpg` (with transcript: music, sighs and panting only)
