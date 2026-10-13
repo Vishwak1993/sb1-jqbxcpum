@@ -33,7 +33,7 @@
 - Shape: black card → four declined calls, a marble each (0:03-0:15) → the sum (0:15-0:24) → "later." decline (0:24) → Dad's kitchen, "next week for sure!" (0:33-0:46) → years 1-6 (0:46-1:16) → Sunday 10:00, no call; "i'll stop calling on sundays" (1:16) → marbles keep falling → the turn (1:32-1:52) → Sunday morning, URGENT email, the villain at full size, he slams the laptop shut (2:10) → Dad's door → "son?" → two plates, cooking → the gold marble → mirror: Maya answers her mum → title.
 - Final caption pair: "You have fewer Sundays than you think." / "Go now."
 - Built with the Last Soul lessons: a doable action (go on Sunday), the stakes woven into the plot (Dad's second plate, Maya planted in year 1), a planted prop paid off (the plate, the jar), a relapse before the final fight (the URGENT email).
-- Package: title "LATER. | An Animated Short Film". Thumbnail (`later/release/LATER_thumbnail_1280x720.png`): his guilty, frightened face lit by a phone that faces us, "DAD calling...", thumb on decline; "LATER." huge in white.
+- Package: title "LATER. | An Animated Short Film". Thumbnail v2 (`later/release/LATER_thumbnail_v2_1280x720.png`): a split frame, him declining Dad's call at his laptop (cold blue) and Dad alone with two plates (warm), "LATER." across the top. Chosen over v1 (a face close-up) because the user found v1 too close to the first two thumbnails.
 - Release: `later/release/LATER_master_1080p.mp4` (-18.0 LUFS, 81 MB), phone copy and a 19 MB download copy.
 - Cast: Dad (grey moustache, an old dog), Maya (dark bun).
 - Viewer results: not published yet.

@@ -2,7 +2,7 @@
 
 **Title:** LATER. | An Animated Short Film
 
-**Thumbnail:** `LATER_thumbnail_1280x720.png` (close-up of his frightened, guilty face lit by his phone; the phone faces us: "DAD calling...", his thumb on the red decline button; "LATER." huge in white). Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
+**Thumbnail:** `LATER_thumbnail_v2_1280x720.png` (split frame: left, cold blue, he declines "DAD calling..." at his laptop with an URGENT email; right, warm, Dad alone at his kitchen table with two plates set, looking at his phone; "LATER." across the top). Alternate v1: `LATER_thumbnail_1280x720.png` (close-up of his frightened, guilty face lit by his phone; the phone faces us: "DAD calling...", his thumb on the red decline button; "LATER." huge in white). Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
 
 **Video:** `release/LATER_master_1080p.mp4` (captions only, the villain whispers).
 
