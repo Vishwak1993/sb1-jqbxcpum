@@ -76,6 +76,43 @@ Third: Loneliness (studied with its transcript, after ALONE was finished).
 - No title card; the film ends on the Skool and like/subscribe end screens.
 - Worth learning: the relationship nearly breaks after the turn (a second low point), and the repair is the real climax. The counter going up fast is a payoff on its own.
 
+## A second channel: Last Soul (@lastsouloriginal, "short animated films about the habits we just can't seem to break")
+Same genre, a different look, and already viral (40K and 16K views within days on a 1.2K-subscriber channel). Studied for inspiration, same rule: never copy.
+
+### 1 MINUTE (4:59) `lastsoul_minute_*.jpg` (with transcript: music, sighs and panting only)
+- Pain: big plans that collapse ("10K. Every day.") and the shame of giving up.
+- Opening card: "Big plans feel better than small steps." (serif, on black).
+- Device: a wall plan "10K EVERY DAY" that fills with red crosses, and a 5:30 alarm with SNOOZE. Excuses are small orange captions next to the alarm: "Weather's awful." "Long week." "Tomorrow." "I'm just not a runner."
+- Wound and stakes: he tries to return the running shoes; "14-DAY RETURNS" was planted on the counter at the start. "Sorry. It's been a month."
+- Turn from a person, not a discovery: the shop worker (headband) says "That's the hardest part. Can you run one minute?" "Just one minute a day?" "Of course I can." "One minute. Anywhere." He tears the 10K plan down and writes "1 MIN".
+- Practice shown concretely: the alarm reads "RUN 1 MIN", a 1:00 timer, short night runs, a watch reading 0.00 km. Quote cards on black with authors (Epictetus, James Clear).
+- Relapse after the turn: the same excuses come back ("Weather's awful. Too cold. Tomorrow."), and he runs anyway. The first colour in the film is his yellow raincoat.
+- Payoff: the plan wall fills with green ticks; then a bright green open hillside, the only daylight colour scene.
+- Bookend: back at the same shop: "Hi. It's been a while. I need a new pair." "So you made it to 10K?" "I'm not chasing 10K anymore. Just one minute a day. Then I see where the run takes me."
+- Title: 1 MINUTE / "Just start. See where it takes you." (thin serif caps, no underline).
+
+### TEMPER (5:24) `lastsoul_temper_*.jpg` (no transcript)
+- Pain: anger from work that he carries home ("Life is full of things that make us angry." / "Anger always finds its way home.").
+- Device: a thermometer beside him (red when hot, blue when ashamed), and his body outline glows in the colour of his feeling (red, orange, blue).
+- Wound: a delivery driver, a customer complaint, "DEDUCTED: CUSTOMER COMPLAINT" on his pay slip. At home he shouts "ENOUGH!" at his family; a red demon flashes behind him for one frame.
+- Stakes inside the plot: his little son starts copying him (hits a classmate; a call from the school office). Quote card: "Children have never been very good at listening to their elders, but they have never failed to imitate them." (James Baldwin)
+- Turn: he searches "how to stay calm": "Breathe for 10 seconds. Put on some music. Unclench your fists." He practises each one on screen (a sticky note on the dashboard, music in the van).
+- Relapse: "Hard days will keep coming. You will still get angry." The same customer: "One more complaint and I'm fired." He counts his breath and goes calm.
+- Payoff and mirror: his son smashes his toy rocket ("STUPID ROCKET!"); he says "Breathe with me", and the boy copies calm. They fix it together. "Children copy calm, too."
+- Title: TEMPER / "Don't let it run your life."
+
+### What to take from Last Soul
+1. A helper character can deliver the turn with one simple, doable instruction ("Can you run one minute?"). The viewer leaves with something to try today.
+2. Show the technique as steps on screen (a 1:00 timer, a three-line "how to stay calm" list) and let him practise them.
+3. Put a relapse after the turn: the same excuse or trigger comes back, and this time he acts differently.
+4. Weave the mirror into the plot: the person who copies him is in the story from the wound (TEMPER's son), not just added at the end.
+5. Plant a small prop early that pays off as a bookend (the 14-DAY RETURNS sign, the shoe shop).
+6. Feelings can be lit onto the character: an outline glow in the feeling's colour.
+7. Inner excuses as small coloured captions beside the object that triggers them, instead of a villain body.
+8. Quote cards on black with the author's name, two or three per film. Thin serif titles with a one-line subtitle.
+9. Thumbnails: one bold word, high contrast, sometimes a white background (TEMPER) or a split before/after frame (1 MINUTE: grey and alone vs yellow and running).
+10. Longer films (5:00 to 5:24) still hold, because something new happens every few seconds.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
@@ -91,4 +128,4 @@ Third: Loneliness (studied with its transcript, after ALONE was finished).
 ## Overlaps with our films (check before every pitch)
 - ALONE is very close to LONELINESS: the same topic, a 0 counter as the device (NEW MESSAGES vs WORDS SAID TODAY), a birthday alone with a single candle, a spam call or notification as the only contact, a villain line about nobody wanting him, and a "go first / say the first word" ending where he passes it on to a stranger. ALONE was finished before this film was studied, but it would read as a copy of it on the same channel. Do not publish ALONE as it is without deciding this with the user.
 - ALONE and OVERTHINKING both use an unanswered chat with a friend called Sam who wears a yellow beanie. ALONE was made before this film was studied: the name and hat are a coincidence, but a future film must not reuse them, and ALONE's Sam could be renamed or recoloured if wanted.
-- The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone, addiction and loneliness are taken too.
+- The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone, addiction and loneliness are taken too. Last Soul has taken tiny habits (1 MINUTE) and anger passed on to children (TEMPER).
