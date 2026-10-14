@@ -53,7 +53,7 @@
 
 Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff, a jar of marbles, a declined call as the hook, a parent as the stakes, a battery meter, a sibling's show as the stakes.
 
-Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, loneliness, overthinking and "what if" anxiety. Last Soul has taken tiny habits (1 MINUTE) and anger at home (TEMPER). FOCUS has taken phone distraction.
+Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, loneliness, overthinking and "what if" anxiety. Last Soul has taken tiny habits (1 MINUTE) and anger at home (TEMPER). FOCUS has taken phone distraction. CONNECTED has taken always-on work versus a partner. Ours have now covered work versus family twice (LATER., 1%.): pick a different area next.
 
 Ideas not made yet
 - Comparison: a race where every glance at the other lanes slows him down. (Careful: the course hands this exact device to every student, so expect many copies; give it a new angle.)

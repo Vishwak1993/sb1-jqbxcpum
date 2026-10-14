@@ -134,6 +134,26 @@ Same genre, a different look, and already viral (40K and 16K views within days o
 5. A stinger after the title card that hints the fight goes on.
 6. Villain lines placed like UI (notifications next to the object) rather than floating near the villain.
 
+### CONNECTED | An Animated Short Film (5:33) `connected_*.jpg` (transcript: music only, a few words)
+- Pain: always on for work, never present with the person beside you ("Slides by nine." "Did I miss something?" "Lie down with me?" "It's after ten.").
+- Look: a different style from ours and Day One's. Solid black silhouette characters with white eyes and a thin rim light, softly blurred real-looking rooms, and dialogue as small subtitle lines, not bubbles. Mostly speech, almost no villain.
+- Device: a stack of little notification counters floating by his head all film (Inbox 5, To-do 2, Messages 3), plus a status pill that reads "In a meeting", then "No connection", and finally a red-heart "Connected". The device is his availability.
+- Wound and stakes inside the relationship: his partner asks "Can we go see my mom on Sunday?" He answers "...Circle back?". She writes "Dinner Thursday? Just us." in a red circle on the calendar, and adds it to his phone ("Added").
+- Quote cards on black with authors: "While we are postponing, life speeds by." (Seneca); "Besides the noble art of getting things done, there is a nobler art of leaving things undone." (Lin Yutang).
+- Turn from a mentor: an older boss (white hair, glasses) says "Nothing sits in my inbox for more than an hour." "Honestly? Never thought about it." "She kept asking to go back." He shows a photo of himself and his wife in Paris: "She passed away last year." "Now every morning I ask myself: Am I just busy? Or am I living?" (on a handwritten note). A sticky note on the frame: "Don't work late. Come home for dinner."
+- Relapse and final fight: Thursday at the office, the anniversary reminder on his phone, "Need the new slides tonight", the question "Am I just busy? Or am I living?" comes back. He types "Sorry, can it wait?" and leaves with flowers.
+- Payoff: "Look who's here." "Happy anniversary." "You remembered?" "I'm sorry. I haven't really been here." They cook together; the phone face down with a sticky note: "Stay connected. Be here". Toast with wine glasses. In bed she says "My mom called today"; the status pill now says "Connected".
+- Title: a white card, a red heart, CONNECTED / "Be here" (handwritten). Note the bright, white end card.
+
+### What to take from CONNECTED
+1. A mentor's own regret as the turn: a short, sad, true-sounding story is more convincing than any discovery.
+2. A small UI layer floating by the character (counters, a status pill) is a quiet device that never leaves the screen.
+3. Planted props that pay off in another scene: the red circle on the calendar, the Paris photo, the sticky note that moves from his boss's frame to his own phone.
+4. The final act is a single text message ("Sorry, can it wait?"): an act every viewer can copy.
+5. A bright white title card stands out after a dark film.
+
+Overlap with our films: CONNECTED shares ground with LATER. (time with a loved one running out, a parent) and 1%. (work over the people you love). Our next films should not be about work versus family or a partner.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
@@ -149,4 +169,4 @@ Same genre, a different look, and already viral (40K and 16K views within days o
 ## Overlaps with our films (check before every pitch)
 - ALONE is very close to LONELINESS: the same topic, a 0 counter as the device (NEW MESSAGES vs WORDS SAID TODAY), a birthday alone with a single candle, a spam call or notification as the only contact, a villain line about nobody wanting him, and a "go first / say the first word" ending where he passes it on to a stranger. ALONE was finished before this film was studied, but it would read as a copy of it on the same channel. Do not publish ALONE as it is without deciding this with the user.
 - ALONE and OVERTHINKING both use an unanswered chat with a friend called Sam who wears a yellow beanie. ALONE was made before this film was studied: the name and hat are a coincidence, but a future film must not reuse them, and ALONE's Sam could be renamed or recoloured if wanted.
-- The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone, addiction and loneliness are taken too. Last Soul has taken tiny habits (1 MINUTE) and anger passed on to children (TEMPER). FOCUS has taken phone and screen-time distraction.
+- The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone, addiction and loneliness are taken too. Last Soul has taken tiny habits (1 MINUTE) and anger passed on to children (TEMPER). FOCUS has taken phone and screen-time distraction. CONNECTED has taken always-on work versus being present with a partner.
