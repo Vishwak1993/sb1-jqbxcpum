@@ -47,6 +47,7 @@
 - Final caption pair: "You charge everything except yourself." / "Rest."
 - From FOCUS: the viewer's turn, a stinger after the title. From Last Soul: the stakes woven into the plot, a relapse before the final fight.
 - Package: title "1% | An Animated Short Film". Thumbnail: a new layout, bright, the device as the whole picture (giant battery at 1% with him slumped inside, his phone at 100%, "1%." in red).
+- Release: `onepercent/release/ONE_PERCENT_master_1080p.mp4` (-18.5 LUFS, 77 MB), phone copy and an 18 MB download copy.
 - Cast: Theo (little brother, scale 0.72, a dark tuft of hair).
 - Viewer results: not published yet.
 
