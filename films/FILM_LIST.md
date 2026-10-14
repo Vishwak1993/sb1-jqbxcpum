@@ -38,7 +38,19 @@
 - Cast: Dad (grey moustache, an old dog), Maya (dark bun).
 - Viewer results: not published yet.
 
-Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff, a jar of marbles, a declined call as the hook, a parent as the stakes.
+## 004 · 1%. (2:56)
+- Pain: you push through every day and never rest, until you run out before the thing that matters.
+- Villain line: "push through." Also: "everyone else is working." "you'll fall behind." "rest is for the lazy." "you'll make the next one." "you don't have time to rest." "just one more hour."
+- Device: his BATTERY meter, draining all film (white, red at 20% and below, blinking at 1%), while his phone on its charger sits at 100% in green. Turn: the phone says "Battery low. Plug in to charge." and he sees he plugs in everything he owns except himself; the lesson is drawn as a battery with what charges it (SLEEP, A WALK, PEOPLE, DOING NOTHING) and what drains it. Payoff: he wakes at 100% and the meter turns gold.
+- Stakes woven in: little brother Theo's school play on Friday ("wouldn't miss it."), missed at 1%; the final show on Saturday is the payoff; Theo copying him late at night is the mirror.
+- Shape: black card → 14 s of the day draining 100 to 41 (0:03-0:17) → the phone charges to 100% next to him at 41% (0:17) → Theo (0:27) → weeks 1-6 (0:36-0:57) → Friday 18:30 "on my way" → 1%, asleep at the keyboard (1:01) → "you weren't there" → the turn (1:16-1:39) → charging montage → the final fight, a deadline night; he shuts the laptop and switches off the lamp, and the villain, made of screen light, dissolves (2:04) → the viewer's turn: "Drop your shoulders. Breathe out." with a breathing ring (2:07) → Saturday, 100% → Theo on stage → mirror: he switches off Theo's lamp → title → stinger: Monday 6:00, "push through."
+- Final caption pair: "You charge everything except yourself." / "Rest."
+- From FOCUS: the viewer's turn, a stinger after the title. From Last Soul: the stakes woven into the plot, a relapse before the final fight.
+- Package: title "1% | An Animated Short Film". Thumbnail: a new layout, bright, the device as the whole picture (giant battery at 1% with him slumped inside, his phone at 100%, "1%." in red).
+- Cast: Theo (little brother, scale 0.72, a dark tuft of hair).
+- Viewer results: not published yet.
+
+Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff, a jar of marbles, a declined call as the hook, a parent as the stakes, a battery meter, a sibling's show as the stakes.
 
 Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, loneliness, overthinking and "what if" anxiety. Last Soul has taken tiny habits (1 MINUTE) and anger at home (TEMPER). FOCUS has taken phone distraction.
 

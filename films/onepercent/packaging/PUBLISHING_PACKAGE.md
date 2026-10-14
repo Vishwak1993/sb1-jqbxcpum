@@ -1,0 +1,37 @@
+# 1%. · publishing package
+
+**Title:** 1% | An Animated Short Film
+
+**Thumbnail:** `ONE_PERCENT_thumbnail_1280x720.png`. A bright frame (stands out among dark thumbnails): a giant battery with only a red 1% sliver left, him slumped inside it, exhausted; on the right "1%." huge in red and his phone on its charger glowing green at 100%. Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
+
+**Video:** `release/ONE_PERCENT_master_1080p.mp4` (captions only, the villain whispers).
+
+**Description**
+
+You charge your phone every night. When did you last charge yourself?
+
+"You charge everything except yourself. Rest."
+
+**Chapters**
+0:00 He never stopped
+0:17 100%
+0:27 Friday
+0:36 Push through
+1:01 1%
+1:16 Plug in
+1:33 Charging
+1:48 One more hour
+2:07 Your turn
+2:18 Saturday
+2:34 Theo
+
+**Hashtags:** #AnimatedShortFilm #Burnout #2DAnimation
+
+**Tags:** burnout, rest, animated short film, overworking, hustle culture, self care, exhaustion, short film, 2d animation
+
+**Before publishing**
+- [ ] Watch the master once on a phone with sound, start to finish
+- [ ] The first 5 seconds state the pain (no logo intro)
+- [ ] Thumbnail checked next to other thumbnails at small size
+- [ ] Title exactly as above
+- [ ] 1080p processing finished before making it public

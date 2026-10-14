@@ -6,7 +6,7 @@ World
 
 Colour (absolute rules)
 - Red = the villain and failure only (villain glow, villain whispers, a failed counter, the title underline, and anything the villain controls, like NO.'s puppet strings).
-- Gold = connection and truth. It does not appear until the payoff. Screens are muted blue.
+- Gold = connection and truth. It does not appear until the payoff. Screens are muted blue (a phone's charging green is the one exception, used in 1%.).
 - Everything else is muted grey/blue. If a colour isn't in this list, it isn't in the film.
 
 Character
@@ -48,4 +48,4 @@ Thumbnails (study `references/thumbnails/`; learn from them, never copy a compos
 - What they do: 1-3 words in huge, thick, rounded white caps with a full stop or question mark, across the top. One face, close up, filling about half the frame, with one pushed emotion (bloodshot eyes, sweat drops, heavy brows). One story object carries the colour (red 5:00, glowing phone, red F). One light source on the face. Dark background.
 - They are more rendered than the films: soft shading, texture and detail on the face and object. A thumbnail may push detail beyond the film's flat look, as long as it is still the same character.
 - Ours: built from the film's own character code, then pushed. The hook word in white, the story number or object in our accent colour. Never show the payoff. Always check at 320x180 next to the reference row before shipping.
-- Vary the layout from film to film. ALONE and NO. were both a big face on the right with one word on the left; the user found a third one too familiar. Other layouts: a split frame (two people, two colours, as LATER. v2), the device alone, a wide scene with the villain.
+- Vary the layout from film to film. ALONE and NO. were both a big face on the right with one word on the left; the user found a third one too familiar. Other layouts: a split frame (two people, two colours, as LATER. v2), the device as the whole picture on a bright background (1%.), a wide scene with the villain.
