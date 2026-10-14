@@ -159,7 +159,7 @@ def lamp(ctx, x, on=1.0, key="dlamp", desk_y=640):
 
 
 def room(ctx, t, sky="night", desk=True, lap=1.0, lap_text=None, mug_n=0, lamp_on=1.0, phone_full=None, bed=False, sofa=False,
-         window_gold=0.0, lap_cable=False):
+         window_gold=0.0, lap_cable=False, lap_x=800):
     skies = {"night": (22, 26, 38), "dawn": (100, 96, 116), "day": (84, 96, 118), "gold": (190, 150, 90)}
     P.back_wall(ctx, rgb=mix((20, 20, 23), (56, 44, 30), window_gold))
     P.floor(ctx, FY)
@@ -178,7 +178,7 @@ def room(ctx, t, sky="night", desk=True, lap=1.0, lap_text=None, mug_n=0, lamp_o
         P.table(ctx, 560, 640, 460, key="desk")
         P.chair(ctx, 640, 690, 1, key="dchair")
         lamp(ctx, 980, lamp_on)
-        scr = laptop(ctx, 800, 640, open_k=lap, text=lap_text, cable=lap_cable)
+        scr = laptop(ctx, lap_x, 640, open_k=lap, text=lap_text, cable=lap_cable)
         mugs(ctx, mug_n)
         if phone_full is not None:
             charging_phone(ctx, 900, 636, phone_full, cable_to=(940, FY))
@@ -220,6 +220,15 @@ def sit(ch, ctx, x, seat_y=690, f=1, lean=0.2, **kw):
     return ch.draw(ctx, hip, f, lean=lean, feet=feet, **kw)
 
 
+def in_bed(ctx, expr="closed", look=(0, -1)):
+    """Lying on his back on the bed (bed at x=1100, mattress top FY-90), head on the pillow, legs under the duvet."""
+    hip = (1330, FY - 132)
+    HIM.draw(ctx, hip, -1, lean=math.pi / 2, feet={"near": (hip[0] + 114, FY - 126), "far": (hip[0] + 112, FY - 128)},
+             expr=expr, look=look, hands={"near": (hip[0] - 20, FY - 104), "far": (hip[0] - 10, FY - 106)},
+             bend={"leg_near": 1, "leg_far": 1, "arm_near": 1, "arm_far": 1})
+    P.wrect(ctx, 1250, FY - 136, 300, 46, "duvet", (60, 64, 92), LINE, 3, seg=3)
+
+
 # ---- the hook -------------------------------------------------------------------------------
 def s01(ctx, t):
     cap(ctx, "C1", y=H / 2 + 16, size=60)
@@ -233,16 +242,12 @@ def h1(ctx, t):
         jx = (hrand("al", ctx.frame) - 0.5) * 6 if ring else 0
         clock_text(ctx, 1030 + jx, FY - 140, "6:00", rgb=RED if ring else (200, 200, 206))
         if up < 0.5:
-            hip = (1300, FY - 106)
-            HIM.draw(ctx, hip, -1, lean=math.pi / 2 - 0.02, feet={"near": (hip[0] + 108, FY - 100), "far": (hip[0] + 100, FY - 104)},
-                     expr="closed" if t < 3.6 else "shocked", look=(0, -1),
-                     bend={"leg_near": 1, "leg_far": 1, "arm_near": -1, "arm_far": -1})
-            P.wrect(ctx, 1220, FY - 120, 300, 40, "duvet", (60, 64, 92), LINE, 3, seg=3)
+            in_bed(ctx, "closed" if t < 3.6 else "shocked")
         else:
             x = lerp(1240, 1000, ease(prog(t, 4.4, 5.8)))
             stand(HIM, ctx, x, f=-1, lean=0.06, expr="happy", look=(-1, 0), step=(t * 2) % 1 if t > 4.4 else 0,
-                  hands={"near": (x - 60, 520), "far": (x + 50, 520)}, free=True)
-            P.wrect(ctx, 1220, FY - 120, 300, 40, "duvet", (60, 64, 92), LINE, 3, seg=3)
+                  hands={"near": (x - 150, 600), "far": (x + 140, 610)}, free=True)
+            P.wrect(ctx, 1250, FY - 136, 300, 46, "duvet", (60, 64, 92), LINE, 3, seg=3)
     hud(ctx, t)
 
 
@@ -269,10 +274,12 @@ def h4(ctx, t):
     with Camera(2.0, 760, 560).apply(ctx):
         room(ctx, t, sky="day", lap_text=["Q3 report", "slides v7"], mug_n=2)
         P.wrect(ctx, 660, 626, 70, 14, "sandwich", (200, 160, 110), LINE, 2, seg=1)
-        J = him_at_desk(ctx, t, "tired", look=(1, 0.4), hands={"near": (770, 632), "far": (700, 560)}, head_tilt=0.25,
+        hip, _ = seated(640, 690, 1)
+        J0 = HIM.joints(hip, 1, 0.26, 0.25)
+        ear = (J0["head"][0] - 34, J0["head"][1] + 6)
+        rrect(ctx, ear[0] - 9, ear[1] - 34, 18, 46, 4, (40, 40, 46), LINE, 2.5)
+        J = him_at_desk(ctx, t, "tired", look=(1, 0.4), hands={"near": (770, 632), "far": (ear[0], ear[1] + 14)}, head_tilt=0.25,
                         mouth_open=talk("him", t))
-        hp = J["limbs"]["arm_far"][2]
-        rrect(ctx, hp[0] - 8, hp[1] - 40, 16, 40, 4, (40, 40, 46), LINE, 2.5)
         speech(ctx, t, "him", J["head"][0] + 40, J["head"][1] - 70)
     hud(ctx, t)
 
@@ -284,7 +291,7 @@ def h5(ctx, t):
         born = villain_from_glow(ctx, t, scr, t0, t1, 1120)
         P.villain(ctx, 1120, FY, scale=lerp(0.3, 1.0, born), alpha=born, grin=ease(prog(t, 15.4, 16.2)), lean=-0.2)
         him_at_desk(ctx, t, "tired", hands=typing(t, 0.6))
-    vline(ctx, "V1", 1240, 330, 60)
+    vline(ctx, "V1", 960, 250, 60)
     hud(ctx, t)
 
 
@@ -354,10 +361,7 @@ def g1(ctx, t):
         with Camera(2.3, 1100, 600).apply(ctx):
             room(ctx, t, sky="dawn", desk=False, bed=True)
             clock_text(ctx, 1030, FY - 140, "6:00", rgb=RED)
-            hip = (1300, FY - 106)
-            HIM.draw(ctx, hip, -1, lean=math.pi / 2 - 0.02, feet={"near": (hip[0] + 108, FY - 100), "far": (hip[0] + 100, FY - 104)},
-                     expr="tired", look=(0, -1), bend={"leg_near": 1, "leg_far": 1, "arm_near": -1, "arm_far": -1})
-            P.wrect(ctx, 1220, FY - 120, 300, 40, "duvet", (60, 64, 92), LINE, 3, seg=3)
+            in_bed(ctx, "tired")
     else:
         with Camera(2.2, 760, 580).apply(ctx):
             room(ctx, t, sky="day", lap_text=["INBOX 61"], mug_n=1 + int(prog(t, 37.8, 39.3) * 2.99))
@@ -426,16 +430,16 @@ def g5(ctx, t):
         if grab < 1:
             laptop(ctx, 1560, 660, open_k=0.0, key="slap")
         if grab < 0.5:
-            hip = (1260, 650)
+            hip = (1290, 666)
             jig = math.sin(t * 22) * 6
-            HIM.draw(ctx, (1300, 666), 1, lean=-1.42, feet={"near": (1412, 650 + jig), "far": (1404, 656)}, expr="tired", look=(0, -1),
-                     hands={"near": (1250, 640), "far": (1240, 644)},
-                     bend={"leg_near": -1, "leg_far": -1, "arm_near": 1, "arm_far": 1})
+            HIM.draw(ctx, hip, -1, lean=math.pi / 2 - 0.04, feet={"near": (1404, 662 + jig), "far": (1404, 664)},
+                     expr="tired", look=(0, -1), hands={"near": (1294, 672), "far": (1288, 674)},
+                     bend={"leg_near": -1, "leg_far": -1, "arm_near": 1, "arm_far": -1})
         else:
             hip, feet = seated(1260, 694, 1)
-            J = HIM.draw(ctx, hip, 1, lean=0.3, feet=feet, expr="tired", look=(1, 0.8), screen_glow=0.8,
-                         hands=free_hands(HIM, hip, 1, 0.3, {"near": (1380, 630), "far": (1360, 636)}))
-            laptop(ctx, 1380, 640, key="slap2")
+            HIM.draw(ctx, hip, 1, lean=0.14, feet=feet, expr="tired", look=(1, 1.0), screen_glow=0.8,
+                     hands=free_hands(HIM, hip, 1, 0.14, {"near": (1366, 690), "far": (1350, 694)}))
+            laptop(ctx, 1404, 712, open_k=0.85, key="slap2")
     vline(ctx, "V4", 960, 300, 52)
     label(ctx, "WEEK 5")
     hud(ctx, t)
@@ -476,7 +480,7 @@ def r1(ctx, t):
     spill = ease(prog(t, EVENTS["spill"], EVENTS["spill"] + 0.8))
     slump = ease(prog(t, 61.6, 63.0))
     with Camera(lerp(1.8, 2.1, prog(t, 61, 68)), 780, 560).apply(ctx):
-        room(ctx, t, sky="night", lap_text=["DEADLINE 20:00"], mug_n=4, lamp_on=0.6)
+        room(ctx, t, sky="night", lap_text=["DEADLINE 20:00"], mug_n=4, lamp_on=0.6, lap_x=lerp(800, 880, slump))
         clock_text(ctx, 640, 380, "FRI 19:40")
         mx, my = 830, 640
         ctx.c.save()
@@ -487,8 +491,9 @@ def r1(ctx, t):
         if spill > 0:
             ctx.c.drawOval(skia.Rect.MakeLTRB(mx - 20, my - 8, mx + 40 + 120 * spill, my + 4), fill((90, 60, 40)))
         hip, feet = seated(640, 690, 1)
-        HIM.draw(ctx, hip, 1, lean=lerp(0.26, 0.9, slump), feet=feet, expr="closed", look=(1, 1), head_tilt=0.3 * slump,
-                 hands=free_hands(HIM, hip, 1, lerp(0.26, 0.9, slump), {"near": (770, 630), "far": (750, 636)}))
+        ln = lerp(0.26, 0.86, slump)
+        HIM.draw(ctx, hip, 1, lean=ln, feet=feet, expr="closed", look=(1, 1), head_tilt=0.4 * slump, near_arm_front=False,
+                 hands=free_hands(HIM, hip, 1, ln, {"near": lerp2((770, 630), (722, 634), slump), "far": lerp2((750, 636), (706, 636), slump)}))
         if slump > 0.9:
             draw_text(ctx, "z", 760 + 8 * math.sin(t * 2), 470 - (t * 30) % 40, 40, TEXT, 0.5)
     hud(ctx, t)
@@ -506,7 +511,7 @@ def r2(ctx, t):
             ctx.c.drawOval(skia.Rect.MakeLTRB(810, 632, 970, 644), fill((90, 60, 40)))
             hip, feet = seated(640, 690, 1)
             J = HIM.draw(ctx, hip, 1, lean=0.4, feet=feet, expr="hurt", look=(1, 1), head_tilt=0.2,
-                         hands=free_hands(HIM, hip, 1, 0.4, {"near": (740, 600), "far": (724, 606)}))
+                         hands=free_hands(HIM, hip, 1, 0.4, {"near": (752, 640), "far": (736, 646)}))
             P.phone_held(ctx, *J["limbs"]["arm_near"][2], on=1.0)
         cap(ctx, "C5")
     hud(ctx, t)
@@ -530,7 +535,7 @@ def t1(ctx, t):
         room(ctx, t, sky="night", lap_text=None, mug_n=4, lamp_on=0.6, phone_full=100, lap_cable=True)
         hip, feet = seated(640, 690, 1)
         J = HIM.draw(ctx, hip, 1, lean=0.3, feet=feet, expr="worried" if t < 81.8 else "hurt", look=look,
-                     hands=free_hands(HIM, hip, 1, 0.3, {"near": (760, 634) if t < 81.8 else (700, 560), "far": (744, 638)}))
+                     hands=free_hands(HIM, hip, 1, 0.3, {"near": (760, 634) if t < 81.8 else (704, 616), "far": (744, 638)}))
         if t > 81.8:  # his own battery, above his head
             hx, hy = J["head"]
             battery_icon(ctx, hx - 50, hy - 140, 100, 36, 1, RED, ease(prog(t, 81.8, 82.3)), 4)
@@ -568,10 +573,7 @@ def t3(ctx, t):
         k = prog(t, 93.0, 99.0)
         glow(ctx, 1540 + 160 * k, 260 - 40 * math.sin(math.pi * k), 60, (220, 220, 230), 0.4)
         clock_text(ctx, 1030, FY - 140, f"{(22 + int(k * 8.9)) % 24}:00")
-        hip = (1300, FY - 106)
-        HIM.draw(ctx, hip, -1, lean=math.pi / 2 - 0.02, feet={"near": (hip[0] + 108, FY - 100), "far": (hip[0] + 100, FY - 104)},
-                 expr="closed", look=(0, -1), bend={"leg_near": 1, "leg_far": 1, "arm_near": -1, "arm_far": -1})
-        P.wrect(ctx, 1220, FY - 120, 300, 40, "duvet", (60, 64, 92), LINE, 3, seg=3)
+        in_bed(ctx, "closed")
         if t > 94.0:
             draw_text(ctx, "z", 1180 + 8 * math.sin(t * 2), 560 - (t * 30) % 50, 40, TEXT, 0.5)
         v = bat_at(t)
@@ -651,11 +653,11 @@ def f1f2(ctx, t):
             expr = "determined"
         look = (1, 0.6) if not (116.0 < t < 118.4) else (-1, -0.4)  # a glance at the flyer
         him_at_desk(ctx, t, expr, look=look, hands=typing(t, 1.0 if t < 119 else 0.0))
-    vline(ctx, "V6", 1300, 260, 60)
-    vline(ctx, "V7", 1300, 260, 52)
-    vline(ctx, "V8", 1300, 260, 52)
-    vline(ctx, "V9", 1300, 260, 52)
-    vline(ctx, "V10", 1300, 260, 66)
+    vline(ctx, "V6", 760, 250, 60)
+    vline(ctx, "V7", 760, 250, 52)
+    vline(ctx, "V8", 760, 330, 52)
+    vline(ctx, "V9", 760, 250, 52)
+    vline(ctx, "V10", 760, 250, 66)
     hud(ctx, t)
 
 
@@ -708,16 +710,13 @@ def p1(ctx, t):
         room(ctx, t, sky="gold", desk=False, bed=True, window_gold=ease(prog(t, 138.0, 140.0)))
         clock_text(ctx, 1030, FY - 140, "SAT 8:00")
         if wake < 1:
-            hip = (1300, FY - 106)
-            HIM.draw(ctx, hip, -1, lean=math.pi / 2 - 0.02, feet={"near": (hip[0] + 108, FY - 100), "far": (hip[0] + 100, FY - 104)},
-                     expr="closed" if t < 139.4 else "smile", look=(0, -1), bend={"leg_near": 1, "leg_far": 1, "arm_near": -1, "arm_far": -1})
-            P.wrect(ctx, 1220, FY - 120, 300, 40, "duvet", (60, 64, 92), LINE, 3, seg=3)
+            in_bed(ctx, "closed" if t < 139.4 else "smile")
         else:
             stretch = math.sin(math.pi * prog(t, 140.4, 142.4))
             hip, feet = standing(1180, FY, -1)
             HIM.draw(ctx, hip, -1, lean=0.02, feet=feet, expr="happy", look=(-1, -0.6),
-                     hands=free_hands(HIM, hip, -1, 0.02, {"near": (1140, 520 - 160 * stretch), "far": (1230, 520 - 160 * stretch)}))
-            P.wrect(ctx, 1220, FY - 120, 300, 40, "duvet", (60, 64, 92), LINE, 3, seg=3)
+                     hands=free_hands(HIM, hip, -1, 0.02, {"near": (1180 - 150, 640 - 170 * stretch), "far": (1180 + 150, 640 - 170 * stretch)}))
+            P.wrect(ctx, 1250, FY - 136, 300, 46, "duvet", (60, 64, 92), LINE, 3, seg=3)
     hud(ctx, t, gold=t > 140.6)
 
 

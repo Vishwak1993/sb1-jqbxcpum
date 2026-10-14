@@ -218,6 +218,7 @@ def villain(ctx, x, floor_y, scale=1.0, alpha=1.0, grin=1.0, lean=0.0, key="vill
         c.drawPath(ap, blurred(stroke(RED, 34 * s, 0.6), 12 * s))
         c.drawPath(ap, stroke(RED, 30 * s, 0.9))
         c.drawPath(ap, stroke(ink, 24 * s))
+        _villain_hand(ctx, a[-2], a[-1], s, ink, (key, "hand", a[0][0] > hx))
     for sp in shapes:
         c.drawPath(sp, stroke(RED, 7 * s, 0.9))
     for sp in shapes:
@@ -239,6 +240,29 @@ def villain(ctx, x, floor_y, scale=1.0, alpha=1.0, grin=1.0, lean=0.0, key="vill
             c.drawLine(p0[0], p0[1], p1[0], p1[1], stroke((255, 236, 180), 4 * s * crack))
     c.restore()
     return geometry
+
+
+def _villain_hand(ctx, prev, tip, s, ink, key):
+    """A clawed hand at the end of a villain arm: a palm and four long, thin, curved fingers, pointing along the arm."""
+    c = ctx.c
+    ang = math.atan2(tip[1] - prev[1], tip[0] - prev[0])
+    palm = (tip[0] + math.cos(ang) * 6 * s, tip[1] + math.sin(ang) * 6 * s)
+    fingers = []
+    for i, spread in enumerate((-0.62, -0.2, 0.2, 0.62)):
+        a = ang + spread + math.sin(ctx.t * 3 + i) * 0.04
+        L = (34 if i in (1, 2) else 28) * s
+        base = (palm[0] + math.cos(a) * 12 * s, palm[1] + math.sin(a) * 12 * s)
+        mid = (base[0] + math.cos(a) * L * 0.55, base[1] + math.sin(a) * L * 0.55)
+        end = (mid[0] + math.cos(a + 0.35) * L * 0.5, mid[1] + math.sin(a + 0.35) * L * 0.5)  # claws curl inward
+        fingers.append(poly_path([base, mid, end], closed=False, smooth=True))
+    for fp in fingers:
+        c.drawPath(fp, blurred(stroke(RED, 13 * s, 0.6), 6 * s))
+        c.drawPath(fp, stroke(RED, 11 * s, 0.9))
+    c.drawCircle(palm[0], palm[1], 17 * s, blurred(fill(RED, 0.6), 8 * s))
+    c.drawCircle(palm[0], palm[1], 17 * s, fill(RED, 0.9))
+    for fp in fingers:
+        c.drawPath(fp, stroke(ink, 7 * s))
+    c.drawCircle(palm[0], palm[1], 14 * s, fill(ink))
 
 
 def villain_shards(ctx, x, floor_y, scale, k, key="villain"):

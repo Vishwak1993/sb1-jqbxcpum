@@ -32,3 +32,12 @@ Traps that cost time
 - Full 160 s render at 1080p with 4 workers takes about 11 minutes; run it in the background.
 - Reusable pieces from NO. (speech bubbles, `free_hands`, `lift`, `floor_sit`, door, dog, box, street, office, full-screen phone) now live in `toolkit/studio/extras.py`; new films import them from there. Sound gained `pluck`, `knock`, `scribble`, `clink` and `ringtone`.
 - A 180 s master at CRF 17 is about 100 MB, GitHub's hard limit: render long films at CRF 18.
+- Animation mistakes the user caught in 1%. (check every film for these before rendering):
+  - Villain whispers placed over the villain's own head. Put them in empty space beside it, and give back-to-back lines different heights so they never overlap.
+  - A hand holding a phone (to the ear, or reading) parked on the face. Phone calls go to the far ear behind the head; reading happens at chest height.
+  - A hand "on his chest" that lands on the face. Aim it at the torso, below the chin.
+  - Lying poses: decide which way knees and elbows bend (`bend=`) and look at a frame. Lying on a bed or sofa, the body must rest on the mattress top with legs straight under the duvet (`in_bed()` in `onepercent/scene.py`).
+  - Sitting slumped asleep at a desk: the hip stays on the seat, the head goes down onto folded arms, the near arm drawn behind the head.
+  - A laptop drawn over the face: on the knees it sits below the chin.
+- Check the whole film every 2 seconds (a scan sheet), not only one sheet per scene: these mistakes hide between the sheet frames.
+- The villain now has clawed hands (`props._villain_hand`); older films get them on their next render.
