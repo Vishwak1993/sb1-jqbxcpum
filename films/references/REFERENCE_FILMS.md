@@ -113,6 +113,27 @@ Same genre, a different look, and already viral (40K and 16K views within days o
 9. Thumbnails: one bold word, high contrast, sometimes a white background (TEMPER) or a split before/after frame (1 MINUTE: grey and alone vs yellow and running).
 10. Longer films (5:00 to 5:24) still hold, because something new happens every few seconds.
 
+### FOCUS | An Animated Short Film (2:44, 8.4K views in 6 days) `focus_*.jpg` (with transcript)
+- Pain: the phone eats the whole night ("It was never just one.").
+- Device: a SCREEN TIME bar top-centre that fills red, and a clock top-right (2:47 AM, 2:58, 1:46). A wall PLAN he never starts, a calendar of red crosses.
+- Villain: short red lines pinned next to the phone like notifications: "just one more." "check it." "you earned this." "start tomorrow." "everyone's online." "you're missing out." In the dark screen the villain appears in his own reflection; the screen cracks: "you can't stop. you never could."
+- Rock bottom caption pair: "You don't lack time. / You give it away."
+- Turn as one physical act: the clock reads 1:46, his hand turns the phone face down. Then "DAY 1." with a headband.
+- Practice montage: running through the city at night, studying, push-ups with a counter (1, 4), then punching a red bag shaped like the villain.
+- Metaphor scene: an endless dark staircase. "Distraction is easy." "Focus is a choice." The villain swoops in: "you can't stop." He keeps climbing, and the caption flips the villain's own line: "You can't stop now."
+- Payoff: a summit at sunrise. "No one gives you your hours back. / So take them."
+- New and strong: the film stops and talks to the viewer. "you're still holding it." (villain, to us) then "Flip your phone face-down." with a 10-second countdown ring (9, 7, 4, 2). The viewer does the act in real time.
+- Title: FOCUS / "Look up. Your life is happening." / "Put it down." (red). Then a stinger after the title: a 5:00 alarm and "Five more minutes." (the next fight, and a nod to DAY 1.).
+- Thumbnail: big bloodshot face in bed, cracked phone with the villain inside it, red 3:12 clock, "FOCUS." top right. Again the big-face layout: it works for the channel, but ours must vary (see STYLE_BIBLE).
+
+### What to take from FOCUS
+1. A moment that asks the viewer to act now, inside the film, with an on-screen timer. It turns watching into doing and is the most shareable beat.
+2. Flip the villain's line at the climax so it means the opposite ("you can't stop" becomes "You can't stop now.").
+3. One metaphor location for the fight (stairs, summit) instead of a literal room.
+4. A villain inside a reflection (a dark screen, a window, a mirror).
+5. A stinger after the title card that hints the fight goes on.
+6. Villain lines placed like UI (notifications next to the object) rather than floating near the villain.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
@@ -128,4 +149,4 @@ Same genre, a different look, and already viral (40K and 16K views within days o
 ## Overlaps with our films (check before every pitch)
 - ALONE is very close to LONELINESS: the same topic, a 0 counter as the device (NEW MESSAGES vs WORDS SAID TODAY), a birthday alone with a single candle, a spam call or notification as the only contact, a villain line about nobody wanting him, and a "go first / say the first word" ending where he passes it on to a stranger. ALONE was finished before this film was studied, but it would read as a copy of it on the same channel. Do not publish ALONE as it is without deciding this with the user.
 - ALONE and OVERTHINKING both use an unanswered chat with a friend called Sam who wears a yellow beanie. ALONE was made before this film was studied: the name and hat are a coincidence, but a future film must not reuse them, and ALONE's Sam could be renamed or recoloured if wanted.
-- The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone, addiction and loneliness are taken too. Last Soul has taken tiny habits (1 MINUTE) and anger passed on to children (TEMPER).
+- The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone, addiction and loneliness are taken too. Last Soul has taken tiny habits (1 MINUTE) and anger passed on to children (TEMPER). FOCUS has taken phone and screen-time distraction.
