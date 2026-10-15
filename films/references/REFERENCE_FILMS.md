@@ -154,6 +154,35 @@ Same genre, a different look, and already viral (40K and 16K views within days o
 
 Overlap with our films: CONNECTED shares ground with LATER. (time with a loved one running out, a parent) and 1%. (work over the people you love). Our next films should not be about work versus family or a partner.
 
+## A third channel: NOT TODAY (@NotTodayAnimated)
+The same headband character as FOCUS, so FOCUS is very likely from this channel. It posts almost every day: ONE OPINION., DON'T LOOK., RESET., TOO OLD., EVERYONE'S AHEAD., 5 MORE MINUTES. (AWAKE), FOCUS. Views are still small (200 to 1,000 per film in the screenshot, October 2026), while Last Soul has 133K on 1 MINUTE. A fixed template posted daily does not beat a distinct film.
+
+Its template, the same in every film: a dark side-view bedroom with a window light cone, a HUD top-left and a clock top-right, the red-eyed villain whispering short lines, a wall PLAN, an outdoor run at dawn, the 10-second viewer countdown ("Set tomorrow's alarm. Put it out of reach." in AWAKE), "DAY 1.", a title with a red underline and a red command, and a stinger whose villain line names the next film ("everyone's ahead of you." at the end of AWAKE leads into AHEAD).
+
+### RESET: One Missed Day Didn't Ruin It. (2:45) `notToday_reset_*.jpg` (with transcript)
+- Pain: you break a streak once and quit everything ("He didn't miss a day. Until he did.").
+- Device: a tower of gold blocks by the window, one per day, and a STREAK counter. One missed day ("one more hour." "it's ruined.") and the tower falls. "Every restart began on a Monday." "Each one broke sooner." "He didn't stop because it was hard. He stopped because of the zero."
+- Turn: a chart with two lines, DAYS DONE (still 16) and STREAK (0). "Nothing was ruined. He'd run sixteen days." "The miss wasn't what ended it. The quit was."
+- Practice and relapse: he restarts, rebuilds the tower, a friend runs with him; misses day 105 ("start monday." "it's ruined."), runs the next day anyway; the villain crumbles into blocks. "He missed a day. And ran the next."
+- Payoff: the friend asks him to count; the blocks lie gold across the grass: "Count them."
+- Title: RESET / "A missed day is just a day." / "Never miss twice." (red), with the block tower drawn under it with one gap.
+
+### AWAKE (5 MORE MINUTES) (2:37) `notToday_awake_*.jpg` (with transcript)
+- Pain: snoozing ("five more minutes." "you earned rest." "sleep is productive.").
+- Device: a SNOOZE bar and a clock; a sticky note "RUN AT SUNRISE" on the wall PLAN.
+- Turn: "Mornings aren't won in the morning. They're won the night before." He moves the alarm across the room before bed. A tally of mornings on a board.
+- Fight: the villain as a heavy black blanket pinning him to the bed: "you'll never wake up." He throws it off at 6:00: "I'm awake." Sunrise over the city: "Nobody wakes up ready. You decide it the night before."
+- Viewer's turn: 10-second countdown, "Set tomorrow's alarm. Put it out of reach." Then "DAY 1."
+- Title: AWAKE / "Win the night. Own the morning." / "Set it tonight." (red). Stinger: a phone full of notifications, "everyone's ahead of you."
+
+### What to take from NOT TODAY
+1. The best idea in RESET: a second line on the same chart (DAYS DONE next to STREAK). The device is reread, not replaced.
+2. The villain as a physical object holding him down (the blanket) is stronger than a figure standing nearby.
+3. A stinger that names the next film turns single videos into a series. Use it once we have a run of films.
+4. Do not copy the template. Their films blur together; ours must keep a new device, a new place and a new thumbnail layout every time.
+
+Topics taken by NOT TODAY: fear of one opinion, avoidance (DON'T LOOK), streaks and missed days, starting late (TOO OLD), comparison (EVERYONE'S AHEAD), snoozing, phone focus.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
