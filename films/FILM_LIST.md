@@ -51,7 +51,20 @@
 - Cast: Theo (little brother, scale 0.72, a dark tuft of hair).
 - Viewer results: not published yet.
 
-Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff, a jar of marbles, a declined call as the hook, a parent as the stakes, a battery meter, a sibling's show as the stakes.
+## 005 · HEAVY. (2:46)
+- Pain: you hold on to every slight, and you carry it everywhere.
+- Villain line: "never forget." Also: "he did that to you." "he doesn't get to." "they'll do it again." "keep it." "they're laughing at you." "he doesn't deserve it." "don't let him off."
+- Device: every slight is a red stone with a name on it, dropped into a sack on his back; CARRYING counts the kilograms and he bends lower as it fills (9 to 51 kg). Turn: at the bottom of a sunrise hike he cannot climb, and at the top Kai (whose stone is the heaviest) is laughing with nothing on his back; he'd forgotten it years ago. The lesson is drawn as a seesaw. He sets the stones down one by one on the path (set down, a stone turns grey). Final fight: the villain wraps around the sack and holds it on him; he lifts Kai's stone out and sets it on a boulder. Payoff: 0 kg in gold, he climbs to the top at sunrise.
+- Stakes: the old crew's sunrise hike on Saturday ("5am, the old hill"), planted in the first act.
+- Viewer's turn: a red stone with a blank label, "Think of one name." "You can put it down." It sets down and turns grey.
+- Mirror: a kid at the bus stop pockets a red pebble after being shoved; he sets his grey pebble on the bench and the kid sets his down too.
+- Final caption pair: "You can't hurt them by carrying it." / "Put it down."
+- From the references: the villain as a physical thing holding him down (AWAKE's blanket), a metaphor location for the fight (FOCUS's stairs), the planted plan paid off (Last Soul).
+- Package: title "HEAVY. | An Animated Short Film". Thumbnail: a new layout, a wide low-angle shot of the hill with him under the giant sack and Kai light at the top, "HEAVY." on the dark hillside.
+- Cast: Kai (teal cap).
+- Viewer results: not published yet.
+
+Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff, a jar of marbles, a declined call as the hook, a parent as the stakes, a battery meter, a sibling's show as the stakes, stones in a sack, a hill.
 
 Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, loneliness, overthinking and "what if" anxiety. Last Soul has taken tiny habits (1 MINUTE) and anger at home (TEMPER). FOCUS has taken phone distraction. CONNECTED has taken always-on work versus a partner. Ours have now covered work versus family twice (LATER., 1%.): pick a different area next. NOT TODAY has taken fear of judgement, avoidance, missed streaks, starting late, comparison and snoozing.
 

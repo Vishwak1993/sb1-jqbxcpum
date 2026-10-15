@@ -62,6 +62,8 @@ def free_hands(ch, hip, f, lean, hands, head_tilt=0.0):
     L = (UPPER_ARM + FORE_ARM - 4) * s
     out = {}
     for k, p in hands.items():
+        if p is None:
+            continue
         b = base[k]
         d = math.hypot(p[0] - b[0], p[1] - b[1])
         out[k] = p if d <= L else (b[0] + (p[0] - b[0]) * L / d, b[1] + (p[1] - b[1]) * L / d)
