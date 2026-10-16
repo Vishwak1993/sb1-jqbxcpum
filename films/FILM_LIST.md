@@ -64,7 +64,21 @@
 - Cast: Kai (teal cap).
 - Viewer results: not published yet.
 
-Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff, a jar of marbles, a declined call as the hook, a parent as the stakes, a battery meter, a sibling's show as the stakes, stones in a sack, a hill.
+## 006 · SOLD. (2:55)
+- Pain: buying things to fix a feeling (boredom, a bad day, loneliness, 2 AM).
+- Villain line: "treat yourself." Also: "you'll feel better." "you earned it." "it's on sale." "just this one." "this one will fix it." "it ends in a minute." "only one left." "you'll miss it." "buy it."
+- Device: a jar labelled THE SEA on the shelf, counted top-left ($640 down to $0 in red). Every purchase is a coin out of the jar and a box on a tower in front of the window, with a sticker naming the feeling it was bought for; the tower blocks the light and the sea postcard. Each purchase gives a burst of pale light that is gone in two seconds. Turn: the tower falls on him and nearly every box is still taped shut. "He wasn't buying things. He was buying a feeling." The lesson drawn: HOW HE FELT, up at BUY NOW, up at ON ITS WAY, down at the door, lower every time. Practice: the taped boxes go back (RETURN stamps), coins fly back in; each feeling gets what it wanted (BORED: a walk, LONELY: he calls Leo, BAD DAY: he cooks). Final fight: a 2:07 AM flash sale counting down, the villain's claw on his thumb; he puts the phone down and watches it hit zero. Nothing happens; a NEW SALE starts. Payoff: the jar fills to $1,200 in gold, the sea at golden hour.
+- Stakes: the sea, planted with the jar and the postcard in the first 30 seconds.
+- Viewer's turn: YOUR CART (3). "Open your cart." "Leave it there for one day." BUY NOW turns into TOMORROW.
+- Mirror: the opening shot replayed (2:07 AM, in bed, the phone): a cart, he turns the phone face down and sleeps. A seashell and a new jar, SNOW, on the shelf.
+- Final caption pair: "What you want isn't in the cart." / "Wait one day."
+- From the references: timing (post before the sales season, the WINTER ARC lesson), a fake deadline the film proves empty, a counter whose payoff is quiet.
+- Package: title "SOLD. | An Animated Short Film". Thumbnail: a new layout, a full-bleed wall of feeling-labelled boxes with him in a gap and a red SOLD. stamp across the frame.
+- Overlap with our own LATER.: a jar on a shelf that empties, and a new jar in the last shot, echo LATER.'s marble jar. The boxes carry SOLD., but the next films use no jar at all.
+- Cast: Leo (his brother, text and call only).
+- Viewer results: not published yet.
+
+Do not repeat too soon: phone-as-device, a birthday wound, the window-grid reveal, a friend called Sam in a yellow beanie (also used in the reference film OVERTHINKING), puppet strings, a wall calendar as stakes, a painting as the payoff, a jar of marbles, a declined call as the hook, a parent as the stakes, a battery meter, a sibling's show as the stakes, stones in a sack, a hill, a tower of boxes, a savings jar, a shop page with BUY NOW.
 
 Topics the reference channel has already taken (see `references/REFERENCE_FILMS.md`): discipline, dopamine, roots, motivation, readiness, stoicism and control, comfort zone, addiction, loneliness, overthinking and "what if" anxiety. Last Soul has taken tiny habits (1 MINUTE) and anger at home (TEMPER). FOCUS has taken phone distraction. CONNECTED has taken always-on work versus a partner. Ours have now covered work versus family twice (LATER., 1%.): pick a different area next. NOT TODAY has taken fear of judgement, avoidance, missed streaks, starting late, comparison and snoozing. Point Zero Animation has taken quitting right before results (99% QUIT), procrastination and disappearing for 30 days; Day One has taken the winter arc; The Surreal Stories has taken "money can't buy a normal life".
 
