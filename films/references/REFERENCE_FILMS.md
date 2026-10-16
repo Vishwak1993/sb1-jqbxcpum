@@ -183,6 +183,47 @@ Its template, the same in every film: a dark side-view bedroom with a window lig
 
 Topics taken by NOT TODAY: fear of one opinion, avoidance (DON'T LOOK), streaks and missed days, starting late (TOO OLD), comparison (EVERYONE'S AHEAD), snoozing, phone focus.
 
+## Three more, October 2026: Point Zero Animation, Day One's WINTER ARC, The Surreal Stories
+Shared because they reached real views fast. Channel screenshots: `thumbnails/pointzero_channel.png`, `thumbnails/surreal_stories_channel.png`, `thumbnails/dayone_channel_oct16.png`.
+
+### WHY 99% QUIT | An Animated Short Film (3:57), Point Zero Animation `pz_quit_*.jpg` (with transcript: music only)
+9.6K views in 6 days on a channel with 209 subscribers, so the idea carried it, not the channel. The same channel also has DAY 1. and DOPAMINE DETOX. thumbnails in the Day One style, so it is probably a student of the course.
+- Hook: a title over the first frame, "Why 99% of people quit right before it works.", then a failed algebra test, 34% in red. A classmate brags "Didn't even study." The villain (a hooded shape, red eyes) says "Thirty-four." and "Some people just aren't built for this." He walks home with his head down.
+- Planted motive: his little brother's drawing, "MY BIG BRO IS A GENIUS!!", "You're the smartest!".
+- Device: a split screen. Above, his desk at night; below, a cross-section of the soil under the desk labelled UNDERGROUND, where a glowing gold root grows a little every night with a depth ruler. A game HUD on top: LV, ROOT XP bar, DAY, and SURFACE: "NOTHING YET". The lesson card "Roots come first. Nothing will show for weeks." He plants a seed in a pot on the desk; the pot stays empty.
+- Engagement trick: mid-film a choice card freezes the scene, "WHAT WOULD YOU DO? [A] GO OUT or [B] STAY & GRIND", with a timer bar and "comment A or B", while a friend's message "party at mine tonight, you in??" waits in the corner. It turns the viewer into a player and drives comments.
+- Rock bottom: the next test is still low; he stands in the rain under a street lamp; the villain: "just quit". He keeps going (DAY 13, DAY 21, the pot watered, a calendar of red crosses, NIGHT 9).
+- Payoff: the camera dives under the desk and the root system is enormous, gold, every branch tagged with a memory (Chapter 1, "Can you explain...?", Day 14, 2:14 AM, Night 9, Unit 4 review). The quiz comes back 68%, the FINAL EXAM ("Begin."), the villains crowd in and fade, LEVEL UP! LV 16, the sprout breaks the surface (SURFACE: 1 SPROUT, later IN BLOOM with a sunflower).
+- Mirror: his little brother comes to him with a bad test; he kneels and gives him a pot: "it's growing." Title "ROOTS COME FIRST." with a tiny sprout.
+- Style: cleaner vector than Day One, everyone in hoodies, grey classmates. Captions are bold with one key word in colour ("Didn't **even** study.", "You're the **smartest**!", "it's **growing**.").
+
+### WINTER ARC: Your Winter Arc Starts Now. (3:07), Day One Films `winterarc_*.jpg` (with transcript)
+10K views in 8 hours. The topic is a trend that peaks in October, and it was posted in October: timing did half the work.
+- Hook: "Every summer he said the same thing." On the couch with pizza; at 2:07 AM at the fridge; the villain: "you deserve it." His phone shows the "WINTER ARC STARTS NOW" trend; the villain: "you'll quit."
+- Device: DAY counter top-left and one hill. The run up the same snowy hill is the measuring stick, revisited on DAY 3, 4, 5, 60.
+- Fall: DAY 4 he slips on the hill, the villain stands over him, "stay down." Back on the couch: "you're not built for this." A TV ad "NEW YEAR NEW YOU starts January 1st" (the lie of waiting for a date). Then a winter race on TV: "They fall every day." The junk food piles up; the villain: "change the channel." He stands up.
+- Montage: DAY 5 hill, gym, DAY 20 with a gym friend, DAY 33 night run, DAY 60 the hill in a blizzard with the villain blocking the top; he climbs through it.
+- End: "Everyone falls." / "Your winter arc starts now." / "LOCK IN." (red) "Right now." Then like/subscribe and the Skool card.
+- The character design is rounder and simpler than their usual films: the channel changes its look per film and still works.
+
+### POV: You're a Dubai Prince (5:01), The Surreal Stories `surreal_dubai_*.jpg` (with transcript: music only)
+A different genre: second-person captions, bright flat colours, comedy first, the lesson late. 1.2K views in 5 days on a small channel; its other POVs (internet shut off, 12-year-old billionaire) are the same format.
+- Hook: "POV: YOU'RE A DUBAI PRINCE" title, then "And you've never paid for anything. Ever." A counter top-right, SPENT TODAY, starts at $0 and climbs with every gag: breakfast for 40 people, your falcon's own plane seat, supercars, buying a new car instead of parking, a whole mall closed so you don't wait in line, "Oh. And you have a job." (minister of something), a yacht for your other yacht, an island shaped like your cheetah: $1,022,994,000.
+- Turn: "Then you try to do something normal." A friend texts "pizza tonight? like old times"; the staff answer "Not tonight, Your Highness." "Your input is not required." "In this family, 'no' isn't a word." "And zero friends." "They're paid to agree with you." A golden cage: "And nobody feels sorry for gold." "Except a normal life."
+- Payoff: "...you sneak out." Old Dubai, "Nobody looks twice." A shawarma stand: "The first thing you ever paid for yourself." The counter ticks $4 up. "Nobody knows who you are." "Best night of your life." Home at sunrise.
+- End card: SPENT TODAY $1,022,994,004 with the last 4 circled in red, "Best $4 of your life." Then "More POVs every week."
+
+### What to take from these three
+1. Timing is a lever. A topic the audience is searching for this month (winter arc in October, New Year in December, exams in spring) gets a running start. Plan at least one film a season around the calendar.
+2. Show hidden progress. The best device here is the split screen: nothing visible above, a gold root growing below. The viewer sees what the hero can't, so they want him to keep going. Rereading the device at the payoff (every root branch is a night he studied) is the RESET lesson again.
+3. A counter can end on a tiny number. The Dubai counter climbs to a billion and the payoff is the last $4. The surprise is in the smallest change, not the biggest.
+4. One interactive beat ("comment A or B") lifts comments. Use at most one per film, at a real choice point, and only if it fits.
+5. Second-person POV is an option for a light film: "you" puts the viewer in the seat. Our films stay third person ("he") unless a pitch needs it.
+6. Highlight one word per caption in a colour, the word that carries the line.
+7. Thumbnails seen here: a three-panel progression with DAY 1 / 15 / 30 tags and stat chips (USERS 138k, +$2,025 EARNED); a horror-lettered word in red over giant claws reaching for a tiny lit figure (PROCRASTINATION); a sad face holding up the proof (an F exam) under WHY 99% QUIT; bold two-line angled text in white and yellow with a thick outline and an arrow (The Surreal Stories). Day One's newest are all one or two words in white, ending in a full stop or question mark, over a single emotional pose.
+
+Topics taken by these: quitting right before results (99% QUIT), procrastination (I'LL DO IT IN 5 MINUTES), disappearing for 30 days (monk mode), the winter arc (seasonal discipline restart), "money can't buy a normal life" (Dubai POV), life without the internet.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
@@ -199,3 +240,7 @@ Topics taken by NOT TODAY: fear of one opinion, avoidance (DON'T LOOK), streaks 
 - ALONE is very close to LONELINESS: the same topic, a 0 counter as the device (NEW MESSAGES vs WORDS SAID TODAY), a birthday alone with a single candle, a spam call or notification as the only contact, a villain line about nobody wanting him, and a "go first / say the first word" ending where he passes it on to a stranger. ALONE was finished before this film was studied, but it would read as a copy of it on the same channel. Do not publish ALONE as it is without deciding this with the user.
 - ALONE and OVERTHINKING both use an unanswered chat with a friend called Sam who wears a yellow beanie. ALONE was made before this film was studied: the name and hat are a coincidence, but a future film must not reuse them, and ALONE's Sam could be renamed or recoloured if wanted.
 - The "what if" anxiety idea is taken (WHAT IF? and OVERTHINKING). Readiness, stoicism, comfort zone, addiction and loneliness are taken too. Last Soul has taken tiny habits (1 MINUTE) and anger passed on to children (TEMPER). FOCUS has taken phone and screen-time distraction. CONNECTED has taken always-on work versus being present with a partner.
+- HEAVY. climbs a hill and WINTER ARC runs up a hill with the villain at the top. Different meaning (a weight to put down, not effort to push through), but a future film should not use a hill climb again soon.
+- 99% QUIT ends with the hero passing the lesson to a younger brother, like our bus-stop and kid mirrors. Our next mirror should not be an older-to-younger handover; use a different mirror (the opening shot replayed, a stranger, a parent).
+- "Hidden progress / plateau" is now taken (99% QUIT). Do not make a film about results that don't show yet.
+
