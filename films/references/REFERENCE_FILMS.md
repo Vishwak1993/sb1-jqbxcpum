@@ -224,6 +224,45 @@ A different genre: second-person captions, bright flat colours, comedy first, th
 
 Topics taken by these: quitting right before results (99% QUIT), procrastination (I'LL DO IT IN 5 MINUTES), disappearing for 30 days (monk mode), the winter arc (seasonal discipline restart), "money can't buy a normal life" (Dubai POV), life without the internet.
 
+## A fourth channel: Monk Mode Films (@MonkModeFilms), October 2026
+The same Day One course style, with its own look: a magenta/pink villain glow instead of red, white-outlined furniture on near-black, and very rendered thumbnails with pink neon (SEEN., DELETE CHANNEL?, 400 HOURS., COME BACK., 4:59., JUST ONE MORE.). Views: LUST 15K in 8 days, CONSISTENCY 3.3K in 4 days, "He Sent Her 41 Texts" 2.3K in 1 day. Screenshot: `thumbnails/monkmode_channel.png`.
+
+Its titles are not always one word: "He Sent Her 41 Texts", "His Phone Was Swallowing Him", "365 Days of Tomorrow" sit next to LUST and CONSISTENCY. A specific number or a tiny story in the title is a second way to package the same kind of film.
+
+### MONK MODE ("He Sent Her 41 Texts") (3:22) `monkmode_monk_*.jpg` (with transcript)
+- Hook: black card, "He sent her 41 texts. She read every one." and "Seen 3:17 AM" in red. Then him in bed at 3:17, the villain standing by the bed; the chat ("i miss you", "goodnight", Delivered).
+- Device: a HUD top-left, CHECKED HER PAGE: "just now". It measures the pain all film: "just now", "9 min ago", "2 days ago", "40 days ago" crossed out to "just now" (the relapse), and finally "forgot". A screen-time insert: "Most used: Maya 6 h 52 min".
+- Turn caption pair: "She was not taking his days." / "He was giving them away." He writes MONK MODE 90 DAYS on paper (1. No texting her. 2. No checking her page.) and pins it up.
+- Practice: DAY 1, 3, 11, 30, 36 (training, reading, guitar); the villain at day 41: "You've earned one." "for nothing." An unsent message: "I changed. I wake up at 6 now. I train every day. I read again. I did all of this for you." Captions: "Every rep had been a text to her." "Day 42 was the first one he did for himself."
+- Payoff: DAY 90, CHECKED HER PAGE: "forgot". 6:02 AM, Maya: "hey stranger, saw you running by the café, you look different." Him: "I feel different. Take care." The villain: "this is what it was all for." He doesn't answer it. A sunrise run on a hill.
+- End: "He started it for her. / He finished it for himself." Title "MONK MODE." / "Tonight is day one." The transcript adds "Or one more text."
+
+### CONSISTENCY (3:18) `monkmode_consistency_*.jpg` (with transcript: music and chapter names)
+- Hook: "He thought some people were born for the camera. Not him." "4 views" in red. His first video (space facts) sits in a feed next to "took me 5 minutes".
+- The ask: he messages a big creator (Sam Vela, 1.9M): "how did you do it?" The answer, a note he keeps: "One video a week. Nobody will watch for months. Make each one a little better. It counts before it shows."
+- Device: VIDEOS and SUBSCRIBERS counters (WEEK 5: 6 videos, 3 subscribers; WEEK 29: 30 videos, 3 subscribers). Comments like "the audio is so bad i left." The villain puts "DELETE CHANNEL?" on screen with a red DELETE button (the thumbnail). At WEEK 39 the SUBSCRIBERS label becomes LEVEL: 40. The counter is reread; the number that mattered was never subscribers.
+- The lesson drawn: a constellation of small moments, each star tagged ("video 1", "take 18", "2:07 am", "thumbnail #9", "audio fixed", "stopped squinting", "so bad i left.", "40 Sundays", "the walk"). "Not even him." "It counts before it shows." The same idea as 99% QUIT's roots.
+- Payoff: WEEK 51, video 52 "GONE?!" takes off; the analytics graph is flat and then spikes ("368 views", "all of last year: 712"), the channel grid shows thousands of views, a viewer "binged all 52 in one night". Mirror: a kid posts "my first video!!!" with 2 views; he gives the kid the same note. "Until everyone was."
+- Title: "CONSISTENCY." with a gold underline, "Nobody claps for week 12."
+
+### LUST (3:19) `monkmode_lust_*.jpg` (with transcript)
+- Hook: "Every night ended the same." In bed, the villain: "just one more." 3:17 on a red clock. "He had said that at eleven." "The mornings felt hollow." "He could not look at himself for long." (the mirror). "She can tell." A torn streak calendar: "Every streak ended at the same screen."
+- Turn: "He thought he was weak. He was not weak. He was wired." The lesson drawn: a pink wave labelled craving, relief, regret, repeating. "The screen never runs out of new. His brain was built to chase new." The villain in the mirror: "you can't." "The voice was not him. It was the habit, talking."
+- Practice: DAY 1 ("nobody will know." "An urge is a wave. It peaks. Then it passes." drawn as the same wave across the room), DAY 3 a cold shower, DAY 9 a run ("He gave his body something else to do."), DAY 14 "you've earned it." "Fourteen nights in. He walked away."
+- Relapse: DAY 23, "told you. Back to zero." The calendar: 22 green days and one pink. "One night. The voice called it zero. Twenty two nights won. One lost. That is not zero." (the RESET idea).
+- Payoff: DAY 90, "Day ninety. No finish line." The mirror is just a mirror. "He could look at people again." "The voice never fully left. It just stopped being the loudest thing in the room." "You do not beat it once. You beat it tonight, and every night after that."
+- Title: "LUST." with a red underline, "Tonight is day one." / "Or one more night." (pink).
+
+### What to take from Monk Mode Films
+1. A HUD that measures time since the habit, not a score: CHECKED HER PAGE goes from "just now" to "forgot". The payoff is a word, not a number.
+2. The ending as a choice: "Tonight is day one. Or one more night." It puts the decision on the viewer the same night they watch.
+3. A counter's label can change at the turn (SUBSCRIBERS becomes LEVEL). Reread the device; do not add a new one.
+4. A plan written on paper and pinned up (MONK MODE 90 DAYS, the note "It counts before it shows") is a planted object to reread at the end and to hand to the mirror character.
+5. A second turn inside the practice act: he started for the wrong reason (for her) and finishes for himself.
+6. Titles can be a specific number or a tiny story ("He Sent Her 41 Texts") when a one-word title is taken or too broad.
+
+Topics taken by Monk Mode Films: getting over an ex and no contact (MONK MODE, SEEN., COME BACK.), consistency with no audience (CONSISTENCY, 400 HOURS.), motivation, phone addiction (His Phone Was Swallowing Him), procrastination (365 Days of Tomorrow), waking up (4:59.), lust (LUST, JUST ONE MORE.).
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
@@ -243,4 +282,7 @@ Topics taken by these: quitting right before results (99% QUIT), procrastination
 - HEAVY. climbs a hill and WINTER ARC runs up a hill with the villain at the top. Different meaning (a weight to put down, not effort to push through), but a future film should not use a hill climb again soon.
 - 99% QUIT ends with the hero passing the lesson to a younger brother, like our bus-stop and kid mirrors. Our next mirror should not be an older-to-younger handover; use a different mirror (the opening shot replayed, a stranger, a parent).
 - "Hidden progress / plateau" is now taken (99% QUIT). Do not make a film about results that don't show yet.
+- SOLD.'s drawn lesson (HOW HE FELT, up at BUY NOW, down at the door) is close to LUST's craving, relief, regret wave. SOLD. was finished before LUST was studied. The next film's lesson should not be a wave graph of feelings.
+- SOLD. and CONSISTENCY both put "2:07 am" on screen (a coincidence). The next late-night film uses a different time.
+- Monk Mode's films open in bed at 3:17 AM with the villain by the bed, as SOLD. and HEAVY. do. The next film should open somewhere other than a bed at night.
 
