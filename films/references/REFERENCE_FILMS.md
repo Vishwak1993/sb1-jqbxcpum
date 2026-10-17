@@ -91,7 +91,7 @@ Same genre, a different look, and already viral (40K and 16K views within days o
 - Bookend: back at the same shop: "Hi. It's been a while. I need a new pair." "So you made it to 10K?" "I'm not chasing 10K anymore. Just one minute a day. Then I see where the run takes me."
 - Title: 1 MINUTE / "Just start. See where it takes you." (thin serif caps, no underline).
 
-### TEMPER (5:24) `lastsoul_temper_*.jpg` (no transcript)
+### TEMPER (5:24) `lastsoul_temper_*.jpg` (with transcript, October 17)
 - Pain: anger from work that he carries home ("Life is full of things that make us angry." / "Anger always finds its way home.").
 - Device: a thermometer beside him (red when hot, blue when ashamed), and his body outline glows in the colour of his feeling (red, orange, blue).
 - Wound: a delivery driver, a customer complaint, "DEDUCTED: CUSTOMER COMPLAINT" on his pay slip. At home he shouts "ENOUGH!" at his family; a red demon flashes behind him for one frame.
@@ -100,6 +100,7 @@ Same genre, a different look, and already viral (40K and 16K views within days o
 - Relapse: "Hard days will keep coming. You will still get angry." The same customer: "One more complaint and I'm fired." He counts his breath and goes calm.
 - Payoff and mirror: his son smashes his toy rocket ("STUPID ROCKET!"); he says "Breathe with me", and the boy copies calm. They fix it together. "Children copy calm, too."
 - Title: TEMPER / "Don't let it run your life."
+- From the transcript: the wound at home is small and exact ("Too salty. Every single time." / "Sorry."), the worry is spoken in the bills scene ("Why does nothing ever go right?" "What if we lose the house?" "One more complaint and I'm fired."), and each calm step comes back later as a reminder on screen ("Put on some music." returns as a note). A second quote card marks the turn into practice: "You can't stop the waves, but you can learn to surf." (Jon Kabat-Zinn). The relapse test is the same kind of customer ("You're two hours late! I'm calling your boss.") and the payoff is the world answering calm with calm ("Sorry, sir. We'll replace it for you." / "Oh... okay."). Lines like "The bills don't care how loud you get." name the feeling without describing the picture.
 
 ### What to take from Last Soul
 1. A helper character can deliver the turn with one simple, doable instruction ("Can you run one minute?"). The viewer leaves with something to try today.
@@ -253,6 +254,15 @@ Its titles are not always one word: "He Sent Her 41 Texts", "His Phone Was Swall
 - Payoff: DAY 90, "Day ninety. No finish line." The mirror is just a mirror. "He could look at people again." "The voice never fully left. It just stopped being the loudest thing in the room." "You do not beat it once. You beat it tonight, and every night after that."
 - Title: "LUST." with a red underline, "Tonight is day one." / "Or one more night." (pink).
 
+### MOTIVATION (3:02) `monkmode_motivation_*.jpg` (with transcript: music and chapter names)
+- Hook: "He watched 400 hours of motivation." In bed, the phone playing speeches ("NO DAYS OFF", "GO HARDER"). He sets a 6:00 alarm.
+- Device: a fuel gauge top-left labelled MOTIVATION, E to F, and a counter beside it: DAY 1 PULL-UPS 0. A sticky note on the door frame: "1 PULL-UP BY FRIDAY". Every video fills the tank ("Motivation filled his tank."); "It ran out in ten days." DAY 10 is crossed out, PULL-UPS 0; "Friday was yesterday."
+- Loop: the villain: "wait for the next video." Another video (WAKE.), the tank refills, DAY 1 again, the alarm ignored, empty. "you're just not built for it." "...I know."
+- Turn: "This time, he went on empty." The needle stays on E while he trains: DAY 9 negatives, HANG 0:12; DAY 11 HANG 0:18; "The feeling quit. He didn't." DAY 61, the villain offers a video, "+100%"; he says no and closes it.
+- Payoff: DAY 63, PULL-UPS 1, and only then the needle rises: "Now the needle moved after he did." DAY 100, PULL-UPS 12 on an outdoor bar in a sunny street; a kid in a green headband watches. DAY 101, PULL-UPS 13: the kid hangs on the bar next to him (the mirror).
+- End: "400 hours of watching got him zero. 63 mornings of hanging got him one." Title "MOTIVATION." / "You won't feel like it."
+- What it does well: two meters side by side that disagree (MOTIVATION full, PULL-UPS 0), and the turn is that their order swaps: the feeling follows the action. The closing pair is two numbers.
+
 ### What to take from Monk Mode Films
 1. A HUD that measures time since the habit, not a score: CHECKED HER PAGE goes from "just now" to "forgot". The payoff is a word, not a number.
 2. The ending as a choice: "Tonight is day one. Or one more night." It puts the decision on the viewer the same night they watch.
@@ -260,8 +270,12 @@ Its titles are not always one word: "He Sent Her 41 Texts", "His Phone Was Swall
 4. A plan written on paper and pinned up (MONK MODE 90 DAYS, the note "It counts before it shows") is a planted object to reread at the end and to hand to the mirror character.
 5. A second turn inside the practice act: he started for the wrong reason (for her) and finishes for himself.
 6. Titles can be a specific number or a tiny story ("He Sent Her 41 Texts") when a one-word title is taken or too broad.
+7. Two meters that disagree (MOTIVATION full, PULL-UPS 0) and swap order at the turn. The closing caption pair as two numbers ("400 hours of watching got him zero. 63 mornings of hanging got him one.").
 
 Topics taken by Monk Mode Films: getting over an ex and no contact (MONK MODE, SEEN., COME BACK.), consistency with no audience (CONSISTENCY, 400 HOURS.), motivation, phone addiction (His Phone Was Swallowing Him), procrastination (365 Days of Tomorrow), waking up (4:59.), lust (LUST, JUST ONE MORE.).
+
+### Last Soul, October 17: 3.35K subscribers, 3 videos
+1 MINUTE has 205K views in 6 days, TEMPER 23K in 8 days, CONNECTED 10K in 2 days. Three distinct films with three distinct thumbnails (a split before/after, a white background with a red demon, a heart and a phone's notification pills) still beat channels that post a fixed template daily. 1 MINUTE's small, doable promise ("one minute") is the strongest hook we have seen.
 
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
