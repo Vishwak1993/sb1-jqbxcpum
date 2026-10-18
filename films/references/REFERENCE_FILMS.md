@@ -263,6 +263,35 @@ Its titles are not always one word: "He Sent Her 41 Texts", "His Phone Was Swall
 - End: "400 hours of watching got him zero. 63 mornings of hanging got him one." Title "MOTIVATION." / "You won't feel like it."
 - What it does well: two meters side by side that disagree (MOTIVATION full, PULL-UPS 0), and the turn is that their order swaps: the feeling follows the action. The closing pair is two numbers.
 
+### Monk Mode Films, October 18: LUST is at 58K
+LUST has 58K views in 9 days, far ahead of the rest (MOTIVATION 1.8K, DISCIPLINE 1K, DOPAMINE 704; the newest three 3.5K to 6.9K). The channel's answer was a sequel, LUST PART 2. Screenshot: `thumbnails/monkmode_channel_oct18.png`.
+
+### LUST PART 2 (3:31) `monkmode_lust2_*.jpg` (with transcript)
+- Hook: "He was clean for 412 days. He never heard it coming." It starts where most films end: the habit already beaten.
+- Setup: DAY 300 to 405, runs at dawn, a calendar full of green ticks, a friend (Jay) he helps: "day 30 bro, because of you". The voice is quiet and reasonable now: "just ten minutes." "looking isn't doing." "The counter said he was winning."
+- The fall: DAY 412, a rejection email ("We have decided to move forward with another candidate."). "Then came a bad day." The voice: "you had a bad day." "one time won't undo a year." "you earned it." The counter turns to DAY 0. "welcome back." "It felt like 412 days were gone." "it's gone anyway." "One night became nineteen." A calendar filling with pink. "He used to be the guy with 412 days."
+- Turn: the bathroom mirror, the voice's lines written in his own handwriting: "you don't need the drawer anymore." "one rest day." "It never sounded like the voice. It sounded like him." Jay: "day 150!! couldn't have done it without you bro". He types "i relapsed." The villain: "don't tell him. he'll know what you are." He sends "412 days." and Jay answers "run at 6?"
+- Practice: "His body had not forgotten." Running shoes by the door, DAY 1. "The counter went back to zero. He didn't." DAY 30. DAY 47: "you've learned your lesson. you're in control now. one look won't hurt." He gets up; the villain bursts into pink sparks.
+- End: "The voice never left. On day one, it shouts. On day four hundred, it sounds like you." Title "LUST. PART 2" / "Tomorrow is day one. Or let it win twice."
+- What it does well: a sequel that opens at the old film's happy ending; the villain's voice changing with time (loud on day one, his own handwriting on day 400); the person he helped becomes the one who helps him back.
+
+### DOPAMINE (2:27) `monkmode_dopamine_*.jpg` (with transcript: music and chapter names)
+- Hook: "His phone was always at 100%." A pan to him in bed: "He never was." The HUD is a battery icon top-left that measures him, not the phone: 64%, 41%, 12%, 4%, 3%, with the time of day beside it.
+- Wound: his little sister at the door with a board game; "in a minute". Food videos, 2:40 AM. "He wasn't tired from doing too much."
+- Turn: "Dopamine is not pleasure." Then "This is how she saw him": her drawing, "ME + MY BROTHER", with a phone for his head.
+- Practice: DAY 1 on the sofa at 3%, a walk at dusk (DAY 6, 13%), the board game with her (DAY 12, 27%), DAY 23, 51%; the villain in the toy chest: "you earned it." He puts the phone in the chest and shuts it. DAY 30, 64%: drawing on the floor with her.
+- Payoff: "This time, she drew his face." The new drawing: him with a face, holding her hand. "What are you at?" Title "DOPAMINE." / "Your phone can wait. They can't."
+- Overlap: a battery meter measuring a person is the device of our 1%. (made earlier). A child's drawing as the verdict is new and strong.
+
+### DISCIPLINE (2:40) `monkmode_discipline_*.jpg` (with transcript: music and chapter names)
+- Hook: "Every day started the same." A 5:00 alarm and a sticky note "5 AM"; he hits snooze; 7:39. "start tomorrow." on the sofa. DAY 47, 88, 260: the years of mornings pass (chapter "A year of mornings").
+- Wound: the mirror. The villain in it: "LAZY." The glass cracks; "He believed it." He falls through darkness.
+- Turn: his own hand reaches out of the dark and slams the 5:00 alarm off. DAY 1.
+- Practice: DAY 3 a run, DAY 12 push-ups (a counter "5" over him), DAY 64 a punching bag: "no one's counting." "stop." DAY 105, 164.
+- The last climb: stairs to the top; "Motivation gets you to day one. Discipline gets you to day two." The villain blocks the stairs: "you can't." On a hilltop at sunrise: "Nobody is going to wake up for you. So wake up." DAY 365, up at 5:00.
+- Title: "DISCIPLINE." / "five more minutes." (pink) "Or five a.m." "Pick one today."
+- Overlap: stairs as the climb (FOCUS), a hilltop sunrise (HEAVY.), the snooze topic (NOT TODAY's AWAKE).
+
 ### What to take from Monk Mode Films
 1. A HUD that measures time since the habit, not a score: CHECKED HER PAGE goes from "just now" to "forgot". The payoff is a word, not a number.
 2. The ending as a choice: "Tonight is day one. Or one more night." It puts the decision on the viewer the same night they watch.
@@ -271,8 +300,11 @@ Its titles are not always one word: "He Sent Her 41 Texts", "His Phone Was Swall
 5. A second turn inside the practice act: he started for the wrong reason (for her) and finishes for himself.
 6. Titles can be a specific number or a tiny story ("He Sent Her 41 Texts") when a one-word title is taken or too broad.
 7. Two meters that disagree (MOTIVATION full, PULL-UPS 0) and swap order at the turn. The closing caption pair as two numbers ("400 hours of watching got him zero. 63 mornings of hanging got him one.").
+8. Make the sequel when one film breaks out (LUST at 58K became LUST PART 2), and open it where the first one ended.
+9. The villain's voice can change over the film: loud and strange at first, then written in his own handwriting. "On day one, it shouts. On day four hundred, it sounds like you."
+10. Let a child's drawing be the verdict (DOPAMINE: a phone for a head, then his face).
 
-Topics taken by Monk Mode Films: getting over an ex and no contact (MONK MODE, SEEN., COME BACK.), consistency with no audience (CONSISTENCY, 400 HOURS.), motivation, phone addiction (His Phone Was Swallowing Him), procrastination (365 Days of Tomorrow), waking up (4:59.), lust (LUST, JUST ONE MORE.).
+Topics taken by Monk Mode Films: getting over an ex and no contact (MONK MODE, SEEN., COME BACK.), consistency with no audience (CONSISTENCY, 400 HOURS.), motivation, phone addiction (His Phone Was Swallowing Him), procrastination (365 Days of Tomorrow), waking up (4:59.), lust and relapse after a long streak (LUST, LUST PART 2, JUST ONE MORE.), phone dopamine and family (DOPAMINE), discipline and 5 AM (DISCIPLINE).
 
 ### Last Soul, October 17: 3.35K subscribers, 3 videos
 1 MINUTE has 205K views in 6 days, TEMPER 23K in 8 days, CONNECTED 10K in 2 days. Three distinct films with three distinct thumbnails (a split before/after, a white background with a red demon, a heart and a phone's notification pills) still beat channels that post a fixed template daily. 1 MINUTE's small, doable promise ("one minute") is the strongest hook we have seen.
@@ -299,4 +331,5 @@ Topics taken by Monk Mode Films: getting over an ex and no contact (MONK MODE, S
 - SOLD.'s drawn lesson (HOW HE FELT, up at BUY NOW, down at the door) is close to LUST's craving, relief, regret wave. SOLD. was finished before LUST was studied. The next film's lesson should not be a wave graph of feelings.
 - SOLD. and CONSISTENCY both put "2:07 am" on screen (a coincidence). The next late-night film uses a different time.
 - Monk Mode's films open in bed at 3:17 AM with the villain by the bed, as SOLD. and HEAVY. do. The next film should open somewhere other than a bed at night.
+- DOPAMINE measures the person with a battery icon, the device of our 1%. 1%. came first, but the two would look alike side by side.
 
