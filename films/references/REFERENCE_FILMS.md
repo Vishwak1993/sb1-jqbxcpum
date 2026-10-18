@@ -4,7 +4,7 @@ Study material only. Learn the structure, never copy a story, device, line, loca
 Contact sheets (one frame every 3 s, timestamped) are in `references/films/`.
 
 Earlier set (studied with transcripts): ROOTS, Motivation Will Fail You, DISCIPLINE, DOPAMINE.
-Second set below: READY, How One Old Book Fixed His Life (STOIC), You're Not Lazy. You're Too Comfortable. (COMFORT ZONE), ONE LAST TIME, Stop Overthinking (OVERTHINKING; no transcript, studied from the picture).
+Second set below: READY, How One Old Book Fixed His Life (STOIC), You're Not Lazy. You're Too Comfortable. (COMFORT ZONE), ONE LAST TIME, Stop Overthinking (OVERTHINKING; studied from the picture first, its visual transcript added October 18).
 Third: Loneliness (studied with its transcript, after ALONE was finished).
 
 ## READY (2:40) `ready_*.jpg`
@@ -62,6 +62,8 @@ Third: Loneliness (studied with its transcript, after ALONE was finished).
 - Same world, different man: class, cafe and the post he never shared, each now done.
 - Mirror ending: a younger kid in a red cap, "what if they say no?". He hands him one note.
 - Title: OVERTHINKING / "You can't think your way to the answer." / "Go find out." (red)
+- From the visual transcript (October 18): the hook plants the friendship with a photo, "me + sam", and a reminder card, "text sam". Sam's texts ("rematch tmrw", "u coming tonight?") sit unanswered while he rewrites his reply. Small, real triggers carry the worry: a "kinda lol" to Max becomes "is he mad?", a right answer in maths ("x = 6", "correct.") becomes "what did you do?", a drawing he never posts gets "nobody cares." The turn replays those same moments as evidence ("Every note was a guess.") and the reminder updates to "text sam back". The mirror ending rewrites the reminder one last time: "find out."
+- What to take: the reminder card is a relabelled counter (text sam, text sam back, find out.), and the turn reuses the film's own earlier scenes as proof instead of a speech.
 
 ## LONELINESS: Loneliness | An Animated Short Film (2:31) `lonely_*.jpg`
 - Pain: loneliness; days without speaking to anyone.
