@@ -5,7 +5,7 @@
 
 **Thumbnail A:** `RAIN_thumbnail_1280x720.png`. A new layout: an absurd picture that reads without words. A warm dinner table; he talks, grey puffs rising from his mouth into a storm cloud under the ceiling that pours on the table; across from him two friends hold open umbrellas over their plates, Nia sits in his rain looking down. "RAIN." in white, top right. Checked at 320x180 (`phone_size_vs_references.png`).
 
-**Thumbnail B (to test against A):** `RAIN_thumbnail_B_1280x720.png`. The villain's line as the words: "IT'S NOT FAIR." The villain whispers in his ear; his cloud rains on his head. Upload both in YouTube's thumbnail test, or start with A and swap to B after 48 hours if views stall. Made by `films/thumbnails_b.py`.
+**Thumbnail B (to test against A):** `RAIN_thumbnail_B_1280x720.png`. A new layout, the only bright one we have: a blue summer sky, the sun, people smiling on the grass (one with an ice cream), and in front, big, him, soaked and fed-up under the one small black cloud raining on him alone. "ONLY ME?" in white, right. It asks the question the film answers. Made by `thumbnail_b.py`. Upload both in YouTube's thumbnail test, or start with A and swap to B after 48 hours if views stall.
 
 **Video:** `release/RAIN_master_1080p.mp4` (captions only, the villain whispers).
 

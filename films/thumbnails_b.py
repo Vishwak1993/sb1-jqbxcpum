@@ -260,7 +260,6 @@ FILMS = [
     ("onepercent", "ONE_PERCENT", ["PUSH", "THROUGH."], "THROUGH.", -1, obj_onepercent, False),
     ("later", "LATER", ["HE", "UNDERSTANDS."], "UNDERSTANDS.", 1, obj_later, True),
     ("no", "NO", ["YOU OWE", "THEM."], "THEM.", -1, obj_no, False),
-    ("rain", "RAIN", ["IT'S NOT", "FAIR."], "FAIR.", -1, obj_rain, False),
     ("fraud", "FRAUD", ["THEY'LL", "FIND OUT."], "FIND OUT.", 1, obj_fraud, False),
 ]
 
