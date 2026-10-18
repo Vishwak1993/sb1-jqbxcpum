@@ -374,6 +374,38 @@ Tagline on its end card: "INNER WAR. What you feed, grows." Screenshot: `thumbna
 
 Topics taken by INNER WAR: putting off a dream (LATER), lust, money and losing a job (ROOK: BROKE.), distraction (ROOK: NOISE.), not feeling good enough for a grandparent, comparison, "just 5 minutes", perfectionism and hiding your work (Not Good Enough).
 
+## A sixth channel: Ryzon Uz (@ryzonuz), October 18
+A newer channel in the same course style (end card "DAY 1." in orange). Views: NEVER AGAIN WATCH PORN 1.3K, I'M BUSY, DAD 832, ONE MORE. 646; the newest (DAY 3, What If You Never Quit on Day 3?) under 40. Thumbnails borrow the Day One / Monk Mode look closely (round face close-up, big white word, red 06:00 clock, a calendar with a red circled 3). Screenshot: `thumbnails/ryzonuz_channel.png`. Its films are mostly told with almost no words: an AGE counter and a SCREEN TIME or MISSED CALLS counter carry the story.
+
+### ONE MORE. (3:20) `ryzon_onemore_*.jpg` (with visual transcript)
+- A different look: soft, flat, warm gradient rooms, a small figure in an orange top. One fixed shot of his bedroom, the same framing for the whole film; only the light, the season outside and the counters change.
+- Device: AGE 14 and SCREEN TIME in the corner. He lies on the bed scrolling while the window cycles sunset, night, snow, spring; a friend waves at the window ("COMING?"); a drawing he made on the wall; a calendar.
+- The years go by in the same shot: a letter "CITY ACADEMY OF ART, APPLICATION CLOSED", a wedding invitation, his mother's photo with a black ribbon, a text "MOVING TO THE CITY. BYE, BRO.", him old and grey, still scrolling. "17 YEARS" of screen time.
+- Turn: he wakes up as the 14-year-old again (it was a vision): NEXT VIDEO in 2, he puts the phone down, opens the door, dinner with his mother, a ball game at sunset.
+- End: "Scrolling makes it short." / "DAY 1." (Transcript: "Life isn't short.")
+- What it does: one locked shot whose meaning changes as decades pass in it; the cost shown as objects (the closed application, the invitation, the black ribbon), never said.
+
+### I'M BUSY, DAD (3:11) `ryzon_busydad_*.jpg`
+- Device: MISSED CALLS (1 at AGE 16, 212 at AGE 25, 270, 846) and the son's age. Split screen: Dad in a warm kitchen with two mugs and a fridge drawing, the son in a cold blue office. Dad: "Hello, son!" "Come on Sunday? I'll make plov!" The son hangs up; "Call ended". Memories: Dad teaching him to ride a bike.
+- Years pass: Dad alone at the table, the tree outside changes, a walking stick. Dad types "How are you, son?" slowly. New Year's Eve, SON: 35: he rejects the call. He drives over in the night: the kitchen is empty, two cold mugs, a draft on Dad's phone "I'm proud of you, son. Draft, not sent".
+- Turn: it was a vision; SON: 25 again, Dad is calling; he answers and goes; plov at the table. "There won't always be a call." / "Call back." / "DAY 1."
+- Overlap: very close to our LATER. (a dad calling, the son too busy, time running out, a declined call, a meal at the end). Ours came first in our own list but is not published; INNER WAR's LATER is also out. LATER. needs its story title and a distinct thumbnail when it goes up.
+
+### NEVER AGAIN WATCH PORN (2:57) `ryzon_neveragain_*.jpg`
+- Device: AGE (19, 21, 23, 25) and a notepad, "NEVER AGAIN." then "DAY 3", "DAY 5" crossed out; a red devil with yellow eyes (the villain) who grows and turns the room red; a lock on his door; the floor covered in crumpled "never again" notes by age 25.
+- Turn: he walks out of the door into the street, past the billboard; DAY 1 torn off and DAY 1 again, but this time he takes the rubbish out and opens the window; the mirror smiles back.
+- End: "The lock was never keeping them out. / It was keeping you in."
+- What it does: the closing pair rereads an object we saw all film (the lock on the door) in one sentence.
+
+### What to take from Ryzon Uz
+1. One locked shot for most of the film, with time passing in it (light, seasons, objects arriving), can carry a whole life in two minutes.
+2. "It was a vision" lets the payoff be a second chance; use it rarely, it can feel like a cheat. Our films keep the change real.
+3. Show the cost as objects that arrive in the room (an application stamped CLOSED, a wedding invitation, a photo with a black ribbon, a draft never sent).
+4. The closing pair can reread a prop from the first shot ("The lock was never keeping them out. It was keeping you in.").
+5. Its thumbnails copy Day One and Monk Mode almost exactly and its views stay low: copying the look of the big channels does not bring their views.
+
+Topics taken by Ryzon Uz: scrolling your life away (ONE MORE.), ignoring a parent's calls (I'M BUSY, DAD), porn and relapse (NEVER AGAIN), quitting on day 3.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
@@ -398,4 +430,5 @@ Topics taken by INNER WAR: putting off a dream (LATER), lust, money and losing a
 - Monk Mode's films open in bed at 3:17 AM with the villain by the bed, as SOLD. and HEAVY. do. The next film should open somewhere other than a bed at night.
 - DOPAMINE measures the person with a battery icon, the device of our 1%. 1%. came first, but the two would look alike side by side.
 - INNER WAR published "He Said "Tomorrow" For 16 Years | LATER" before our LATER. Same title word, different story (his own dream vs time with his dad). Publish ours as "He Kept Saying "Next Week" To His Dad | LATER." so the two do not read as the same film.
+- Ryzon Uz's I'M BUSY, DAD is the third film with a son putting off his dad (ours is LATER., INNER WAR's LATER is about a dream). Publish LATER. with its story title and the split-frame thumbnail v2, and do not make another parent-calling film.
 
