@@ -53,4 +53,4 @@ Thumbnails (study `references/thumbnails/`; learn from them, never copy a compos
 - Stay distinct from the channels we study: Last Soul (silhouettes, 133K views) out-performs NOT TODAY (a repeated template, under 1K) by being different. Each of our films gets a new device, a new main location and a new thumbnail layout.
 - Every thumbnail has a big, readable face from October 18 on (the channel's small-figure thumbnails got about 2% click-through and zero clicks from Suggested). Vary the layout around the face, not instead of it. Never put text or the key object in the bottom-right corner, where YouTube puts the time badge.
 - Every film opens on a moving picture with the device in frame 1 and the first caption over it. No black card at the start.
-
+- The four films already on the channel (NO., LATER., 1%., HEAVY.) were re-rendered with a picture opening and given big-face thumbnails (`thumbnails_face.py`) on October 18. ALONE. stays shelved (unlist it): its v3 thumbnail is already a big face, but the film is too close to Day One's LONELINESS.

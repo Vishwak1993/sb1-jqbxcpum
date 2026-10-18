@@ -263,7 +263,19 @@ def friends_at_top(ctx, t, dawn=0.0, kai_laugh=True, s=0.75, kai_x=1640):
 
 # ---- the hook -----------------------------------------------------------------------------------
 def s01(ctx, t):
-    cap(ctx, "C1", y=H / 2 + 16, size=60)
+    """Opens on the first picture, not a black card: the next scene's first frame with a slow push-in, the caption
+    over it (October 18: strangers were leaving within 5 seconds of a black opening)."""
+    k = ease(prog(t, 0.0, 3.0))
+    z = 1.0 + 0.05 * k
+    ctx.c.save()
+    ctx.c.translate(W / 2, H / 2)
+    ctx.c.scale(z, z)
+    ctx.c.translate(-W / 2, -H / 2)
+    h1(ctx, 3.0)
+    ctx.c.restore()
+    ctx.c.drawRect(skia.Rect.MakeXYWH(0, H - 260, W, 260), skia.Paint(Shader=skia.GradientShader.MakeLinear(
+        [(0, H - 260), (0, H)], [col((0, 0, 0), 0.0), col((0, 0, 0), 0.6)])))
+    cap(ctx, "C1", y=985, size=58)
 
 
 def h1(ctx, t):
@@ -819,7 +831,7 @@ DISPATCH = {
     "G1": g1, "G2": g2, "G3": g3, "G4": g4, "G5": g5, "G6": g6, "R1": r1, "R2": r2,
     "T1": t1, "T2": t2, "T3": t3, "F1": f1f2, "F2": f1f2, "F3": f3, "P1": p1, "P2": p2, "VT": vt, "X1": x1, "TT": title,
 }
-CONTINUOUS = {"F2", "R2"}
+CONTINUOUS = {"S01", "H1", "F2", "R2"}
 
 
 def scene(ctx):

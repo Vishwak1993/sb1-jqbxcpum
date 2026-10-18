@@ -275,7 +275,19 @@ def phone_on(ctx, t, x, y, who, t0, t1, key="ph"):
 
 # ---- the hook ----------------------------------------------------------------------------------
 def s01(ctx, t):
-    cap(ctx, "C1", y=H / 2 + 16, size=60)
+    """Opens on the first picture, not a black card: the next scene's first frame with a slow push-in, the caption
+    over it (October 18: strangers were leaving within 5 seconds of a black opening)."""
+    k = ease(prog(t, 0.0, 3.0))
+    z = 1.0 + 0.05 * k
+    ctx.c.save()
+    ctx.c.translate(W / 2, H / 2)
+    ctx.c.scale(z, z)
+    ctx.c.translate(-W / 2, -H / 2)
+    h1(ctx, 3.0)
+    ctx.c.restore()
+    ctx.c.drawRect(skia.Rect.MakeXYWH(0, H - 260, W, 260), skia.Paint(Shader=skia.GradientShader.MakeLinear(
+        [(0, H - 260), (0, H)], [col((0, 0, 0), 0.0), col((0, 0, 0), 0.6)])))
+    cap(ctx, "C1", y=985, size=58)
 
 
 def him_at_desk(ctx, t, expr="neutral", reach=None, look=(1, 0.4), glowv=0.6, **kw):
@@ -825,7 +837,7 @@ DISPATCH = {
     "R1": r1, "R2": r2, "T1": t1, "T2": t2, "T3": t3, "F1": f1f2, "F2": f1f2, "F3": f3, "F4": f4,
     "P1": p1, "P2": p2, "P3": p3, "X1": x1, "TT": title,
 }
-CONTINUOUS = {"F2"}
+CONTINUOUS = {"S01", "H1", "F2"}
 
 
 def scene(ctx):

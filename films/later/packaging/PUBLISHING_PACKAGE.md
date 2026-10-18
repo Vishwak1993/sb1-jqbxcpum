@@ -4,6 +4,12 @@
 **Thumbnail word:** LATER. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
 **Other titles to test:** "He Kept Saying "Next Week" to His Dad | LATER." / "LATER. | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
+**Re-release, October 18 (use these):**
+- **Video:** `release/LATER_master_1080p.mp4`, re-rendered. It now opens on the first picture with the first caption over it (the old version opened on 3 seconds of black, and every stranger left within 5 seconds), and the villain's hands only hang or reach at a normal arm's length. Same audio as before.
+- **Thumbnail:** `packaging/LATER_thumbnail_face_1280x720.png`, a big face: his sad face lit blue, one tear, the phone beside him ringing DAD calling..., his thumb over the red decline button, "LATER." top right. Made by `films/thumbnails_face.py`. Use this one only; no A/B test until the video has a few thousand impressions.
+- Delete the old upload and upload this file fresh (it had under 5 views from strangers, so nothing is lost), with the same title, description and chapters below. Audience: "No, it's not made for kids".
+
+
 **Thumbnail:** `LATER_thumbnail_v2_1280x720.png` (split frame: left, cold blue, he declines "DAD calling..." at his laptop with an URGENT email; right, warm, Dad alone at his kitchen table with two plates set, looking at his phone; "LATER." across the top). Alternate v1: `LATER_thumbnail_1280x720.png` (close-up of his frightened, guilty face lit by his phone; the phone faces us: "DAD calling...", his thumb on the red decline button; "LATER." huge in white). Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
 
 **Thumbnail B (to test against the first):** `LATER_thumbnail_B_1280x720.png`. Its own layout: a wall calendar headed SUNDAYS, every Sunday scrawled "later" in red, his hand bringing the red pen to this Sunday; Dad's photo pinned beside it ("Dad, 71"). "NEXT WEEK." across the top. Made by `films/thumbnails_b2.py`. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall.
