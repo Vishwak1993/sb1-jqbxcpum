@@ -236,6 +236,23 @@ def obj_fraud(ctx, x, y):
     return RED
 
 
+def obj_rain(ctx, x, y):
+    """His storm cloud, above his head, raining on him (x, y is the hand point; the head is 253 px left, 312 up)."""
+    c = ctx.c
+    cx, cy = x - 253, y - 312 - 300
+    for i in range(30):
+        rx = cx - 190 + (i * 41) % 380
+        ry = cy + 40 + (i * 67) % 520
+        c.drawLine(rx, ry, rx - 5, ry + 34, stroke((150, 165, 195), 5, 0.75))
+    p = skia.Path()
+    for dx, dy, r in ((-150, 10, 90), (-60, -50, 120), (70, -30, 110), (160, 20, 80), (0, 30, 110)):
+        p.addCircle(cx + dx, cy + dy, r)
+    p = skia.Op(p, skia.Path(), skia.PathOp.kUnion_PathOp) or p
+    c.drawPath(p, fill((84, 88, 100)))
+    c.drawPath(p, stroke(LINE, 7))
+    return (150, 165, 195)
+
+
 FILMS = [
     # folder, file prefix, lines, red word, villain side, object, tear
     ("sold", "SOLD", ["TREAT", "YOURSELF."], "YOURSELF.", -1, obj_sold, False),
@@ -243,6 +260,7 @@ FILMS = [
     ("onepercent", "ONE_PERCENT", ["PUSH", "THROUGH."], "THROUGH.", -1, obj_onepercent, False),
     ("later", "LATER", ["HE", "UNDERSTANDS."], "UNDERSTANDS.", 1, obj_later, True),
     ("no", "NO", ["YOU OWE", "THEM."], "THEM.", -1, obj_no, False),
+    ("rain", "RAIN", ["IT'S NOT", "FAIR."], "FAIR.", -1, obj_rain, False),
     ("fraud", "FRAUD", ["THEY'LL", "FIND OUT."], "FIND OUT.", 1, obj_fraud, False),
 ]
 

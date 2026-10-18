@@ -168,7 +168,7 @@ def puffs_up(ctx, t, J, dy=150):
 def umbrella(ctx, hand, f=1, s=1.0, a=1.0):
     """An open umbrella held at `hand`, canopy above the head."""
     x, y = hand
-    top = (x - f * 6 * s, y - 170 * s)
+    top = (x + f * 50 * s, y - 170 * s)  # held behind the head, the canopy over it
     ctx.c.drawLine(x, y, top[0], top[1], stroke(LINE, 5 * s, a))
     p = poly_path([(top[0] - 90 * s, top[1] + 30 * s), (top[0], top[1] - 22 * s), (top[0] + 90 * s, top[1] + 30 * s)], smooth=True)
     ctx.c.drawPath(p, fill(UMB, a))
@@ -213,7 +213,7 @@ def dinner_cast(ctx, t, ben_talk=0.0, laugh=0.0, umbrellas=0.0, nia_down=False, 
     for i, (x, ch) in enumerate(((1100, NIA), (1280, BEN), (1440, grey("kit")))):
         hands = {"near": (x - 90, 628), "far": (x - 76, 632)}
         if umbrellas > 0 and ch is not NIA:
-            hands = {"near": None, "far": (x - 30, 560)}
+            hands = {"near": None, "far": (x + 60, 566)}
         expr = "happy" if laugh > 0.2 else ("sad" if (ch is NIA and nia_down) else "neutral")
         if ch is NIA and nia_expr:
             expr = nia_expr
@@ -365,7 +365,7 @@ def g1(ctx, t):
         bus_stop(ctx, t, board="CANCELLED", sky=(60, 62, 76), board_rgb=(230, 120, 100))
         up = ease(prog(t, EVENTS["umbrella"], EVENTS["umbrella"] + 0.5))
         Js = stand(grey("str"), ctx, 1160, f=-1, lean=0.02, expr="neutral" if t < 35 else "shocked", look=(-1, 0.1),
-                   hands={"far": (1130, 560)} if up > 0 else None)
+                   hands={"far": (1220, 566)} if up > 0 else None)
         if up > 0:
             umbrella(ctx, Js["limbs"]["arm_far"][2], f=-1, a=up)
         J = him_at_stop(ctx, t, x=900, expr="determined", look=(1, 0.0))
