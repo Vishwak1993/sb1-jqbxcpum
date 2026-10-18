@@ -41,3 +41,7 @@ Traps that cost time
   - A laptop drawn over the face: on the knees it sits below the chin.
 - Check the whole film every 2 seconds (a scan sheet), not only one sheet per scene: these mistakes hide between the sheet frames.
 - The villain now has clawed hands (`props._villain_hand`); older films get them on their next render.
+- Two captions shown at the same time need two heights (FINE.'s payoff pair printed on top of each other at y=985 in the first sheet). Stack them, 925 and 995.
+- A phone held at the far ear is hidden by the head: put a speech bubble from the caller near the back of the head so the call still reads.
+- A villain at scale 1.15 on a raised step is cut off at 1.9x zoom; check the villain's head on the closest frame of a push-in.
+

@@ -462,4 +462,5 @@ The numbers (2 weeks or less for most): DISCIPLINE 3.9M, DOPAMINE 366K, Motivati
 - DOPAMINE measures the person with a battery icon, the device of our 1%. 1%. came first, but the two would look alike side by side.
 - INNER WAR published "He Said "Tomorrow" For 16 Years | LATER" before our LATER. Same title word, different story (his own dream vs time with his dad). Publish ours as "He Kept Saying "Next Week" To His Dad | LATER." so the two do not read as the same film.
 - Ryzon Uz's I'M BUSY, DAD is the third film with a son putting off his dad (ours is LATER., INNER WAR's LATER is about a dream). Publish LATER. with its story title and the split-frame thumbnail v2, and do not make another parent-calling film.
+- FINE. (ours) uses a Halloween party; Point Zero's choice card waits on a friend's "party at mine tonight, you in??". Different use (the party is the turn, not a temptation), noted so the next film avoids a party invitation as the stakes.
 
