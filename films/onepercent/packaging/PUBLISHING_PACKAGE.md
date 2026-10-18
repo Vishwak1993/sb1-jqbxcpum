@@ -1,6 +1,8 @@
 # 1%. · publishing package
 
-**Title:** 1% | An Animated Short Film
+**Title:** Your Phone Gets Charged Every Night. You Don't.
+**Thumbnail word:** 1%. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
+**Other titles to test:** "You're Not Tired. You're Running on 1%." / "1% | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
 **Thumbnail:** `ONE_PERCENT_thumbnail_1280x720.png`. A bright frame (stands out among dark thumbnails): a giant battery with only a red 1% sliver left, him slumped inside it, exhausted; on the right "1%." huge in red and his phone on its charger glowing green at 100%. Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
 

@@ -1,7 +1,8 @@
 # RAIN. · publishing package
 
-**Title:** He Complained About Everything | RAIN.
-(The story title first, the one word after, as INNER WAR does. Plain alternative: "RAIN. | An Animated Short Film".)
+**Title:** You're Not Venting. You're Feeding It.
+**Thumbnail word:** RAIN. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
+**Other titles to test:** "He Complained About Everything | RAIN." / "RAIN. | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
 **Thumbnail A:** `RAIN_thumbnail_1280x720.png`. A new layout: an absurd picture that reads without words. A warm dinner table; he talks, grey puffs rising from his mouth into a storm cloud under the ceiling that pours on the table; across from him two friends hold open umbrellas over their plates, Nia sits in his rain looking down. "RAIN." in white, top right. Checked at 320x180 (`phone_size_vs_references.png`).
 

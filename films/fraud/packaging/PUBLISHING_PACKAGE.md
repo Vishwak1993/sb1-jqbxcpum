@@ -1,6 +1,8 @@
 # FRAUD. · publishing package
 
-**Title:** FRAUD. | An Animated Short Film
+**Title:** Everyone Here Feels Like a Fraud.
+**Thumbnail word:** FRAUD. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
+**Other titles to test:** "You're Not the Only One Faking It." / "FRAUD. | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
 **When:** any time; strongest in the first weeks of a new job season or a new term (September, January), when people start somewhere new.
 

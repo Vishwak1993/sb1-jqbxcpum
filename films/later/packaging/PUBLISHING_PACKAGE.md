@@ -1,6 +1,8 @@
 # LATER. · publishing package
 
-**Title:** LATER. | An Animated Short Film
+**Title:** Your Dad Won't Be Here Later.
+**Thumbnail word:** LATER. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
+**Other titles to test:** "He Kept Saying "Next Week" to His Dad | LATER." / "LATER. | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
 **Thumbnail:** `LATER_thumbnail_v2_1280x720.png` (split frame: left, cold blue, he declines "DAD calling..." at his laptop with an URGENT email; right, warm, Dad alone at his kitchen table with two plates set, looking at his phone; "LATER." across the top). Alternate v1: `LATER_thumbnail_1280x720.png` (close-up of his frightened, guilty face lit by his phone; the phone faces us: "DAD calling...", his thumb on the red decline button; "LATER." huge in white). Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
 

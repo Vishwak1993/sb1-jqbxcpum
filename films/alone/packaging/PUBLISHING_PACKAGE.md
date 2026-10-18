@@ -1,6 +1,8 @@
 # ALONE · publishing package
 
-**Title:** ALONE | An Animated Short Film
+**Title:** Everyone Is Waiting for Someone Else to Text First.
+**Thumbnail word:** ALONE. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
+**Other titles to test:** "ALONE | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
 **Thumbnail:** `ALONE_thumbnail_v3_1280x720.png` (close-up of his frightened face: bloodshot wide eyes, sweat, heavy brows, the phone screen glowing muted blue and lighting the underside of his face; huge red "0." under bold white NEW MESSAGES). Checked at 320x180 next to the reference thumbnails.
 

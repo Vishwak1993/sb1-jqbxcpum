@@ -1,6 +1,8 @@
 # NO. · publishing package
 
-**Title:** NO. | An Animated Short Film
+**Title:** You Say Yes to Everyone but Yourself.
+**Thumbnail word:** NO. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
+**Other titles to test:** "They Only Like You Because You Say Yes." / "NO. | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
 **Thumbnail:** `NO_thumbnail_1280x720.png` (close-up of his forced smile under frightened, bloodshot eyes, sweat, his hands hoisted up on red puppet strings; "YES." huge in white on the left). Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
 

@@ -1,6 +1,8 @@
 # SOLD. · publishing package
 
-**Title:** SOLD. | An Animated Short Film
+**Title:** You're Not Buying Things. You're Buying a Feeling.
+**Thumbnail word:** SOLD. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
+**Other titles to test:** "You Don't Need Another Box." / "SOLD. | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
 **When:** before the sales season (11.11, Black Friday, the festive sales). People are filling carts that week; the film lands when the pain is live.
 

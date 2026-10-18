@@ -108,3 +108,14 @@ Topics the reference channel has already taken (see `references/REFERENCE_FILMS.
 
 Ideas not made yet
 - Failure: cracks that fill with gold.
+
+## Sentence titles (October 18)
+Each film's publishing package now leads with a sentence title that talks to the viewer, the one word kept for the thumbnail:
+- ALONE. "Everyone Is Waiting for Someone Else to Text First."
+- NO. "You Say Yes to Everyone but Yourself."
+- LATER. "Your Dad Won't Be Here Later."
+- 1%. "Your Phone Gets Charged Every Night. You Don't."
+- HEAVY. "They Forgot. You're Still Carrying It."
+- SOLD. "You're Not Buying Things. You're Buying a Feeling."
+- FRAUD. "Everyone Here Feels Like a Fraud."
+- RAIN. "You're Not Venting. You're Feeding It."

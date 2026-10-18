@@ -1,6 +1,8 @@
 # HEAVY. · publishing package
 
-**Title:** HEAVY. | An Animated Short Film
+**Title:** They Forgot. You're Still Carrying It.
+**Thumbnail word:** HEAVY. (the title says the sentence, the thumbnail keeps the word, as Day One's newer films do)
+**Other titles to test:** "A Grudge Doesn't Weigh on Them." / "HEAVY. | An Animated Short Film". YouTube's Test & Compare can test titles as well as thumbnails.
 
 **Thumbnail:** `HEAVY_thumbnail_1280x720.png`. A new layout: a wide low-angle shot of a steep hill at dusk, him bent double under a giant sack of glowing red stones with names on them (KAI biggest), his friend standing light at the top with nothing on his back, "HEAVY." huge on the dark hillside. Checked at 320x180 (`phone_size_vs_references.png`).
 
