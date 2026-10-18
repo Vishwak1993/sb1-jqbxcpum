@@ -343,14 +343,36 @@ Tagline on its end card: "INNER WAR. What you feed, grows." Screenshot: `thumbna
 - Payoff: he picks up his CV, opens the door into a bright street: "Move." End card: "ROOK. EVERY MOVE COUNTS. Next move ->" and "EP 2: NOISE."
 - What it does: a series. The same hero comes back, so viewers follow him, not just a topic. Each episode ends on the next one's title.
 
+### ROOK Ep. 2: NOISE. (3:40) `innerwar_rook2_*.jpg` (with visual transcript)
+- Picks up the morning after Ep. 1: the phone at 7:58 with 32 notifications, Rook holding his head, then the rook in his palm. "Be the rook." The eviction notice (1 DAY) still on the wall.
+- Device: a yellow sticky note on the wall, "10 APPLICATIONS 0/10", in the shot all the time. He writes ROOK on the first form; the phone lights up; "just one."
+- The noise drawn: one notification bubble becomes dozens (hearts, stars, chats, play buttons), round and bright, until they bury the desk, the clock and the note, and the window goes from day to night behind them. A faint "1/10" in the corner while it happens. His tired face reflected in the black phone.
+- Turn: he touches the rook on a cord round his neck, opens the desk drawer and puts the phone in it. The room goes quiet and warm under the bulb.
+- Practice: the forms filled one after another: 1/10, 2/10, 9/10, 10/10, night outside.
+- End: a red clock, 4:47, then the series end card "ROOK. EVERY MOVE COUNTS. Next move ->".
+- What it does: a series episode needs no setup; the stakes (the eviction) and the talisman (the rook) carry over. The distraction is drawn as a physical flood that fills the frame, and the device is the simplest one possible: a fraction on a sticky note.
+
+### I'll Show You Next Time, Nana | Not Good Enough (4:38) `innerwar_nana_*.jpg` (with transcript)
+- A different INNER WAR look: soft, flat, pale beige and brown, small captions at the bottom, no villain figure (the voice is a dark red thought cloud: "who would even want this?" "theirs is better." "not yet. when i'm better." "next time. when it's good.").
+- Hook: a drawer full of paintings and an envelope "for Lily". "her nana hid 63 paintings for 60 years." Then Lily at 1:58 AM, an art award closing in 00:01:49, she doesn't press upload. Title card "not good enough."
+- Story: Nana taught her to draw as a child; she drew on everything; now every drawing goes in a drawer ("years of drawings. all in one drawer."). Nana asks to see them: "soon! not ready yet". "nana got sick that spring." A sticky note "next time, nana. i promise. x". A 3:14 AM call: "it's nana. please pick up." The grave: "MARGARET ELLIS, beloved nana, 1948-2026, she painted the world softly." "she finally showed her. too late."
+- Turn: Nana's drawer and her letter, read aloud (the only voice): "My Lily, I painted my whole life and I showed almost no one. I was always waiting until I was good enough. I thought it was a finish line. It isn't. It moves every time you get close. My paintings were never the problem, my darling. Waiting was. Please don't keep yours in a drawer. The world is allowed to see you."
+- Practice: she shows a drawing to a child; posts one: "that night. 3 likes." A comment: "my grandma used to paint me, i cried." "it only has to reach one person." "compare with who you were, not who they are." (her drawing at age 6 next to age 24). A jar "kind words": "keep the proof." A sticky note "good enough to begin." Not shortlisted for the award, then an email from a publisher: "we found your post 'for my nana'... would you illustrate our children's book?"
+- Payoff: "one year later", an exhibition "LILY & NANA" with both their paintings. "the world is allowed to see you." Viewer's turn: "what's in your drawer? comment one thing you'll finally share." End card "inner war. you don't have to be ready."
+- What it does: the inherited object (Nana's drawer) mirrors the hero's own drawer; the dead grandparent's letter is the turn, read in the film's only voice. The comment prompt is a real question, not "like and subscribe". The rejection (not shortlisted) comes after the change, and doesn't undo it.
+- Overlap: a grandparent dying before you showed them is close to our LATER. (a dad, time running out). "Not good enough / perfectionism, keeping your work hidden" is now taken.
+
 ### What to take from INNER WAR
 1. Spell the practical steps out on screen as bold commands ("START FOR 2 MINUTES." "MAKE IT TINY." "PICK A TIME AND PLACE.") and gather them on an "INSTEAD:" card with tick boxes. Our films show the practice; one clear card with two or three steps would make the advice screenshot-able.
 2. A story title next to the topic word: "He Said "Tomorrow" For 16 Years | LATER". It tells the viewer the story before the click.
 3. A future self as the voice of the turn ("I was you. I said 'later' too.").
 4. A named series hero who returns in episode 2 with a new problem and an end card that names the next episode.
 5. The villain grows as he feeds it, and shrinks when he doesn't: the size of the villain is a meter.
+6. Draw the distraction as a flood that physically fills the frame (NOISE's notification bubbles), and keep the device to one fraction on a sticky note (0/10 to 10/10).
+7. A letter from the dead, read in the film's only spoken voice, can be the turn. Use a real voice only once, for the line that matters most.
+8. End with a question the viewer can answer in the comments ("what's in your drawer?"), not a generic call to action.
 
-Topics taken by INNER WAR: putting off a dream (LATER), lust, money and losing a job (ROOK: BROKE.), distraction (ROOK: NOISE.), not feeling good enough for a grandparent, comparison, "just 5 minutes".
+Topics taken by INNER WAR: putting off a dream (LATER), lust, money and losing a job (ROOK: BROKE.), distraction (ROOK: NOISE.), not feeling good enough for a grandparent, comparison, "just 5 minutes", perfectionism and hiding your work (Not Good Enough).
 
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
