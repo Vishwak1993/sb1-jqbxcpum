@@ -228,6 +228,14 @@ def obj_no(ctx, x, y):
     return BLUE
 
 
+def obj_fraud(ctx, x, y):
+    c = ctx.c
+    glow(ctx, x, y, 300, RED, 0.45)
+    rrect(ctx, x - 100, y - 130, 200, 260, 16, (60, 10, 12), LINE, 6)
+    draw_text(ctx, "FRAUD", x, y + 22, 64, RED, face="LuckiestGuy-Regular.ttf", glow_rgb=RED_D)
+    return RED
+
+
 FILMS = [
     # folder, file prefix, lines, red word, villain side, object, tear
     ("sold", "SOLD", ["TREAT", "YOURSELF."], "YOURSELF.", -1, obj_sold, False),
@@ -235,6 +243,7 @@ FILMS = [
     ("onepercent", "ONE_PERCENT", ["PUSH", "THROUGH."], "THROUGH.", -1, obj_onepercent, False),
     ("later", "LATER", ["HE", "UNDERSTANDS."], "UNDERSTANDS.", 1, obj_later, True),
     ("no", "NO", ["YOU OWE", "THEM."], "THEM.", -1, obj_no, False),
+    ("fraud", "FRAUD", ["THEY'LL", "FIND OUT."], "FIND OUT.", 1, obj_fraud, False),
 ]
 
 
