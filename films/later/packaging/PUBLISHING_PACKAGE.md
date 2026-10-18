@@ -4,6 +4,8 @@
 
 **Thumbnail:** `LATER_thumbnail_v2_1280x720.png` (split frame: left, cold blue, he declines "DAD calling..." at his laptop with an URGENT email; right, warm, Dad alone at his kitchen table with two plates set, looking at his phone; "LATER." across the top). Alternate v1: `LATER_thumbnail_1280x720.png` (close-up of his frightened, guilty face lit by his phone; the phone faces us: "DAD calling...", his thumb on the red decline button; "LATER." huge in white). Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
 
+**Thumbnail B (to test against the first):** `LATER_thumbnail_B_1280x720.png`. The villain's line as the words: "HE UNDERSTANDS." The villain leans out of the dark and whispers in his ear; his eyes slide toward it; the film's object is in his hands. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall. Made by `films/thumbnails_b.py`.
+
 **Video:** `release/LATER_master_1080p.mp4` (captions only, the villain whispers).
 
 **Description**

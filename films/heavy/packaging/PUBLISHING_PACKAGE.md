@@ -4,6 +4,8 @@
 
 **Thumbnail:** `HEAVY_thumbnail_1280x720.png`. A new layout: a wide low-angle shot of a steep hill at dusk, him bent double under a giant sack of glowing red stones with names on them (KAI biggest), his friend standing light at the top with nothing on his back, "HEAVY." huge on the dark hillside. Checked at 320x180 (`phone_size_vs_references.png`).
 
+**Thumbnail B (to test against the first):** `HEAVY_thumbnail_B_1280x720.png`. The villain's line as the words: "NEVER FORGET." The villain leans out of the dark and whispers in his ear; his eyes slide toward it; the film's object is in his hands. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall. Made by `films/thumbnails_b.py`.
+
 **Video:** `release/HEAVY_master_1080p.mp4` (captions only, the villain whispers).
 
 **Description**
