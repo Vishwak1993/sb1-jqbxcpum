@@ -650,7 +650,7 @@ def f1f2(ctx, t):
     with Camera(z, 900, 500, shake=2 * prog(t, 124, 129)).apply(ctx):
         rim, scr = flat(ctx, t, sky="dawn", value=left_at(t), lap_text=EMAIL if t > EVENTS["email"] else None)
         P.villain(ctx, 1220, FY, scale=lerp(0.6, 1.55, rise), alpha=rise, grin=1.3, lean=-0.35,
-                  arms_up=0.5 * ease(prog(t, 120, 123)), reach=(980, 520) if t > 121 else None)
+                  reach=(980, 520) if t > 121 else None)
         ringing(ctx, t, 1080, 636, EVENTS["brunch"], EVENTS["brunch"] + 1.6, who="brunch? 11?", declined=False, key="fph")
         lean_in = ease(prog(t, 124.0, 125.0))
         hands = {"near": lerp2((830, 690), (930, 628), lean_in), "far": (820, 696)}

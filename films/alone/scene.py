@@ -544,7 +544,7 @@ def fight(ctx, t):
     with Camera(z, 820, 500).apply(ctx):
         kitchen_set(ctx, t, cake=False)
         P.villain(ctx, 470, FY, scale=lerp(0.6, 1.5, rise), alpha=rise, grin=1.3, lean=0.4,
-                  arms_up=0.6 * ease(prog(t, 106, 109)), reach=(780, 470) if t > 104 else None)
+                  reach=(780, 470) if t > 104 else None)
         J = HIM.joints(SEAT[0], 1, 0.22, 0, None, SEAT[1])
         held = (J["head"][0] + 58, J["head"][1] + 56)
         pick = ease(prog(t, 96.6, 97.6))

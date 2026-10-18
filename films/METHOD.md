@@ -45,3 +45,4 @@ Traps that cost time
 - A phone held at the far ear is hidden by the head: put a speech bubble from the caller near the back of the head so the call still reads.
 - A villain at scale 1.15 on a raised step is cut off at 1.9x zoom; check the villain's head on the closest frame of a push-in.
 
+- The villain's hands do only two things: hang at its sides, or reach at a normal arm's length (two bones, elbow bent down, from the shoulder nearest the target). The old reach stretched like rubber from the far shoulder and the arms-up pose flailed; the user called both weird (October 18). `props.villain(reach=...)` now uses IK and never stretches; `arms_up` is kept only for NO.'s puppeteer holding the control bar. If the target is out of reach, move the villain closer, not the arm longer.

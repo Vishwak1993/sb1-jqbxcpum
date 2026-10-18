@@ -866,17 +866,17 @@ def f1(ctx, t):
             P.phone_side(ctx, hp[0], hp[1], on=0.6, angle=-80)
         else:
             P.phone_side(ctx, 1250, 404, on=0.8 if int(t * 6) % 2 else 0.4)
-        geo = P.villain(ctx, 1280, FY, scale=0.95, alpha=vis, grin=1.0, lean=-0.35,
-                        reach=(lerp(1200, 1060, offer), lerp(560, 512, offer)))
+        geo = P.villain(ctx, 1230, FY, scale=0.95, alpha=vis, grin=1.0, lean=-0.3,
+                        reach=(lerp(1150, 1064, offer), lerp(630, 522, offer)))
         J = HIM.draw(ctx, hip, 1, lean=0.06, feet=feet, expr="worried" if t < EVENTS["drop"] else "hopeful",
                      look=(1, 0.1), hands={"far": ear} if ear else None, mouth_open=talk("him", t))
         if vis > 0 and geo:
-            hp = geo["hands"][1]
+            hp = geo["hands"][0]
             if t < EVENTS["drop"]:
-                mask(ctx, hp[0] - 10, hp[1] + 10, 0.95, -1, a=vis)
+                mask(ctx, hp[0] - 26, hp[1], 0.95, -1, a=vis)
             else:
                 dk = prog(t, EVENTS["drop"], EVENTS["drop"] + 0.6)
-                mask(ctx, hp[0] - 10, hp[1] + 10 + 230 * dk * dk, 0.95, -1, a=vis * (1 - dk), rot=60 * dk)
+                mask(ctx, hp[0] - 26, hp[1] + 230 * dk * dk, 0.95, -1, a=vis * (1 - dk), rot=60 * dk)
         speech(ctx, t, "mum", J["head"][0] - 120, J["head"][1] - 110)
         speech(ctx, t, "him", J["head"][0] + 30, J["head"][1] - 90, size=30)
     label(ctx, "MONDAY")

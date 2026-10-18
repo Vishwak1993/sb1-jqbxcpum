@@ -199,9 +199,16 @@ def villain(ctx, x, floor_y, scale=1.0, alpha=1.0, grin=1.0, lean=0.0, key="vill
     arms = []
     for side in (-1, 1):
         sh = (hx + side * 56 * s, hy + 60 * s)
-        if reach is not None and side == 1:
-            mid = ((sh[0] + reach[0]) / 2, min(sh[1], reach[1]) - 30 * s)
-            arms.append([sh, mid, reach])
+        if reach is not None and side == (1 if reach[0] >= hx else -1):
+            # the arm on the side of the target, at its natural length, elbow bent down: it never stretches
+            l1, l2 = 92 * s, 96 * s
+            dx, dy = reach[0] - sh[0], reach[1] - sh[1]
+            d = max(1e-3, min(math.hypot(dx, dy), l1 + l2 - 0.5))
+            ang = math.atan2(dy, dx)
+            bend = side * math.acos(max(-1.0, min(1.0, (l1 * l1 + d * d - l2 * l2) / (2 * l1 * d))))
+            el = (sh[0] + l1 * math.cos(ang + bend), sh[1] + l1 * math.sin(ang + bend))
+            hd = (sh[0] + d * math.cos(ang), sh[1] + d * math.sin(ang))
+            arms.append([sh, el, hd])
         else:
             up = arms_up
             el = (sh[0] + side * (16 + 40 * up) * s, sh[1] + (90 - 150 * up) * s)

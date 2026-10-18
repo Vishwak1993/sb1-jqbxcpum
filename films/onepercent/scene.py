@@ -639,7 +639,7 @@ def f1f2(ctx, t):
         scr = room(ctx, t, sky="night", lap_text=EMAILS[:n][-3:] if n else None, mug_n=1, lamp_on=1.0)
         glow(ctx, scr[0], scr[1], 300 + 60 * n, BLUE, 0.06 * n)
         P.villain(ctx, 1160, FY, scale=lerp(0.6, 1.55, rise), alpha=rise, grin=1.3, lean=-0.35,
-                  arms_up=0.5 * ease(prog(t, 114, 117)), reach=(860, 520) if t > 115 else None)
+                  reach=(860, 520) if t > 115 else None)
         # Theo's flyer on the wall: the final show is Saturday
         wrect(ctx, 420, 360, 110, 140, "flyer", (226, 222, 212), LINE, 3, seg=1)
         star_paper(ctx, 475, 410, 0.9, (220, 190, 120))

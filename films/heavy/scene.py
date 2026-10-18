@@ -676,7 +676,7 @@ def f1f2(ctx, t):
         cx, cy, r = sack_geo(J0, kg)
         # the villain behind him, its arms wrapped around the sack, holding it on
         P.villain(ctx, cx - 120, FY, scale=lerp(0.6, 1.25, rise), alpha=rise, grin=1.2, lean=0.3,
-                  reach=(cx + 10, cy) if rise > 0.6 else None, arms_up=0.2 * rise)
+                  reach=(cx + 10, cy) if rise > 0.6 else None)
         lift = ease(prog(t, 113.6, 115.4))
         stone_pos = lerp2((cx, cy - r * 0.6), (hip[0] + 74, hip[1] - 70), lift)
         J = carrier(ctx, t, hip, 1, feet=feet, kg=kg, expr=expr, look=(1, 0.2), extra_lean=0.15 * rise * (1 - lift),
