@@ -23,3 +23,5 @@ Everyone is waiting for someone else to message first.
 - [ ] Thumbnail checked next to other thumbnails at small size
 - [ ] Title exactly as above
 - [ ] 1080p processing finished before making it public
+
+**Thumbnail v4 (new layout):** `ALONE_thumbnail_v4_1280x720.png`. The building across the street at night: every window lit warm with silhouettes together (a dinner for two, friends, a couple, a family), and one cold blue window with him alone at a small table, a birthday cake with one candle, his phone at his chest. "ALONE." in white across the dark top band. It shows what he believes, not the turn. Made by `thumbnail_v4.py`.
