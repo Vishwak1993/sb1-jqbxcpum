@@ -4,7 +4,7 @@
 
 **Thumbnail:** `NO_thumbnail_1280x720.png` (close-up of his forced smile under frightened, bloodshot eyes, sweat, his hands hoisted up on red puppet strings; "YES." huge in white on the left). Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
 
-**Thumbnail B (to test against the first):** `NO_thumbnail_B_1280x720.png`. The villain's line as the words: "YOU OWE THEM." The villain leans out of the dark and whispers in his ear; his eyes slide toward it; the film's object is in his hands. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall. Made by `films/thumbnails_b.py`.
+**Thumbnail B (to test against the first):** `NO_thumbnail_B_1280x720.png`. Its own layout: a dialog box filling the frame: "can you cover the weekend again?" with a giant green YES and a tiny grey "no" in the corner, his finger already on its way to YES. Made by `films/thumbnails_b2.py`. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall.
 
 **Video:** `release/NO_master_1080p.mp4` (captions only, the villain whispers).
 

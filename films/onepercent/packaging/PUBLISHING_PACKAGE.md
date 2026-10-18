@@ -4,7 +4,7 @@
 
 **Thumbnail:** `ONE_PERCENT_thumbnail_1280x720.png`. A bright frame (stands out among dark thumbnails): a giant battery with only a red 1% sliver left, him slumped inside it, exhausted; on the right "1%." huge in red and his phone on its charger glowing green at 100%. Checked at 320x180 next to the reference thumbnails (`phone_size_vs_references.png`).
 
-**Thumbnail B (to test against the first):** `ONE_PERCENT_thumbnail_B_1280x720.png`. The villain's line as the words: "PUSH THROUGH." The villain leans out of the dark and whispers in his ear; his eyes slide toward it; the film's object is in his hands. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall. Made by `films/thumbnails_b.py`.
+**Thumbnail B (to test against the first):** `ONE_PERCENT_thumbnail_B_1280x720.png`. Its own layout: scale: a laptop as big as a wall (Inbox 147, 23:58, every line URGENT), tiny him on a chair in its glow. "ONE MORE HOUR." with HOUR. in red. Made by `films/thumbnails_b2.py`. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall.
 
 **Video:** `release/ONE_PERCENT_master_1080p.mp4` (captions only, the villain whispers).
 

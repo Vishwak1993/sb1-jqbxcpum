@@ -6,7 +6,7 @@
 
 **Thumbnail:** `SOLD_thumbnail_1280x720.png`. A new layout: the whole frame is a wall of cardboard boxes, each with a feeling on its sticker (BORED, LONELY, 2AM, BAD DAY...). In a gap in the wall he stands, worried, a sweat drop, lit blue by the phone at his chest. Across the right half, stamped at an angle, a red label: SOLD. Checked at 320x180 (`phone_size_vs_references.png`).
 
-**Thumbnail B (to test against the first):** `SOLD_thumbnail_B_1280x720.png`. The villain's line as the words: "TREAT YOURSELF." The villain leans out of the dark and whispers in his ear; his eyes slide toward it; the film's object is in his hands. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall. Made by `films/thumbnails_b.py`.
+**Thumbnail B (to test against the first):** `SOLD_thumbnail_B_1280x720.png`. Its own layout: a till receipt: every feeling with a price (BORED $45, LONELY $85, 2AM $52...), TOTAL $640, THE SEA $0 in red. "WHAT DID I BUY?" Made by `films/thumbnails_b2.py`. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall.
 
 **Video:** `release/SOLD_master_1080p.mp4` (captions only, the villain whispers).
 

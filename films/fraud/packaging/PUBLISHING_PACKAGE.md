@@ -6,7 +6,7 @@
 
 **Thumbnail A:** `FRAUD_thumbnail_1280x720.png`. A new layout: a frame within the frame. The lobby mirror fills the right of the picture; in it, his reflection, worried and sweating, with the badge on its chest glowing red: FRAUD. "FIRST DAY." in white across the top: the words say one thing, the badge another. Checked at 320x180 (`phone_size_vs_references.png`).
 
-**Thumbnail B (to test against A):** `FRAUD_thumbnail_B_1280x720.png`. The villain's line as the words: "THEY'LL FIND OUT." The villain whispers in his ear; he holds the red FRAUD badge. Upload both in YouTube's thumbnail test, or start with A and swap to B after 48 hours if views stall. Made by `films/thumbnails_b.py`.
+**Thumbnail B (to test against the first):** `FRAUD_thumbnail_B_1280x720.png`. Its own layout: a stage: him alone on a chair in a spotlight, the badge glowing FRAUD on his chest, rows of dark heads with white eyes turned to him. "THEY KNOW." with KNOW. in red. Made by `films/thumbnails_b2.py`. Upload both in YouTube's thumbnail test, or start with the first and swap to B after 48 hours if views stall.
 
 **Video:** `release/FRAUD_master_1080p.mp4` (captions only, the villain whispers).
 
