@@ -417,6 +417,24 @@ A newer channel in the same course style (end card "DAY 1." in orange). Views: N
 
 Topics taken by Ryzon Uz: scrolling your life away (ONE MORE.), ignoring a parent's calls (I'M BUSY, DAD), porn and relapse (NEVER AGAIN), quitting on day 3.
 
+## Day One Films, October 18: the channel page and "Lust Is Killing You."
+Screenshots: `thumbnails/dayone_channel_oct18_a.png`, `thumbnails/dayone_channel_oct18_b.png`.
+
+The numbers (2 weeks or less for most): DISCIPLINE 3.9M, DOPAMINE 366K, Motivation Will Fail You 140K, ROOTS 111K, Stop Overthinking 101K, READY 75K, You're Not Lazy. You're Too Comfortable. 73K, How One Old Book Fixed His Life 51K, ONE LAST TIME 51K, Loneliness Is Slowly Killing You 47K, Your Winter Arc Starts Now. 39K, Lust Is Killing You. 2.9K in 2 hours.
+- One film (DISCIPLINE) made the channel. Every later film gets 40K to 370K on the back of it.
+- The titles changed. The early films were "WORD | An Animated Short Film". The newer ones are a sentence that talks to the viewer: "You're Not Lazy. You're Too Comfortable." "Loneliness Is Slowly Killing You" "Your Winter Arc Starts Now." "Lust Is Killing You." "Motivation Will Fail You." The thumbnail keeps the one word (WAKE UP., IS THIS IT?, THE PRICE OF LUST.), the title says the sentence.
+- Every thumbnail is the same family: a rendered close-up of the round face with one strong emotion, one object (a clock, an F test, pills, a book, a phone), one or two big words. It works for them because it is their brand; other channels copying it (Ryzon Uz) do not get the same views.
+
+### Lust Is Killing You. (3:20) `dayone_lust_*.jpg` (music only, the villain whispers)
+- Hook: "It started with just one video." (the word video in an orange tag). Before: friends on a basketball court at dusk, a girl at the lockers says "hey.". "One night, he was bored." 23:14. A warm burst: "It felt good." "just once."
+- Cycle: "The next day, he couldn't stop thinking about it." in class ("are you listening?"); "All day."; the villain: "go on." "one more."; "Then every night." "It felt less good. So he needed more."
+- Cost: "ball tomorrow?" / "can't."; "He stopped going out."; at the lockers he can't meet her eyes; "Real life couldn't compete with the screen." "Nothing felt like enough anymore."
+- Relapse: "done. no more." then "you need me." "He watched it anyway." "He couldn't stop." A friend at the door: "we miss you, bro." "It only took." (one choice).
+- Turn: the villain "just once."; he picks up the phone and messages the group instead: "ball tomorrow?" "YESSS bro. 5pm." "He reached out instead." "Someone was still there."
+- Practice: NIGHT 2, NIGHT 3 ("Every night, it got quieter."), NIGHT 30 ("He didn't give in.").
+- Payoff: the court with friends at dusk, the girl at the lockers: "hey!" "But it was real." Closing line: "Choose real." Then a like/subscribe card and the Skool card ("Want to make videos like this?").
+- What it does well: the replacement for the habit is people, not willpower ("He reached out instead."); the same three places (court, lockers, bed) from the opening come back changed.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
