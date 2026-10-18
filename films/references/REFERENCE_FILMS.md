@@ -102,6 +102,17 @@ Same genre, a different look, and already viral (40K and 16K views within days o
 - Title: TEMPER / "Don't let it run your life."
 - From the transcript: the wound at home is small and exact ("Too salty. Every single time." / "Sorry."), the worry is spoken in the bills scene ("Why does nothing ever go right?" "What if we lose the house?" "One more complaint and I'm fired."), and each calm step comes back later as a reminder on screen ("Put on some music." returns as a note). A second quote card marks the turn into practice: "You can't stop the waves, but you can learn to surf." (Jon Kabat-Zinn). The relapse test is the same kind of customer ("You're two hours late! I'm calling your boss.") and the payoff is the world answering calm with calm ("Sorry, sir. We'll replace it for you." / "Oh... okay."). Lines like "The bills don't care how loud you get." name the feeling without describing the picture.
 
+### 1 HOUR (3:14) `lastsoul_hour_*.jpg`, Last Soul, October 18 (150 views in its first 49 minutes)
+Channel screenshot: `thumbnails/lastsoul_channel_oct18.png` (3.87K subscribers, 4 videos; 1 MINUTE now 262K, TEMPER 24K, CONNECTED 12K).
+- Narrated in first person this time: small italic captions in his voice ("Every night, I swore I'd sleep earlier." "Finally. My time." "I feel like the night's the only time that's mine."), plus a little dialogue.
+- Pain: revenge bedtime procrastination. The topic is named on a title card, with its meaning: "REVENGE BEDTIME PROCRASTINATION. When your day isn't yours, the night starts to feel like it is." "School till three. Practice till six."
+- Device: big clock times as chapter marks (2:14 AM, 9:30 PM, 1:16 AM, 6:41 AM), on a quiet dark bedroom.
+- Stakes inside the plot: he plays basketball (number 14). "Friday, Dec 5. Game night." He is slow on court, the score runs away, "You can't even run! Up late again?" His team chat: "Eli got called up to varsity!!" Coach calls his mum about missed practice. Mum: "You used to sleep with that ball." "Then you give it a rest. You, too." (she is tired too).
+- Turn and practice: a note on his board "LAST HOUR". A 10:00 PM alarm; "Already had my hour"; the phone on a charger across the room, 10:02, sleep.
+- Payoff: fresh legs at practice, a full arena, the scoreboard 55 to 52: "I made varsity." The phone at 2:14 on a Saturday in March shows the team chat, while he sleeps.
+- Title: "1 HOUR" / "Don't steal time from your own sleep."
+- Style: a more cinematic, almost 3D look (lit gym, a packed arena) with the same black-silhouette characters. Each Last Soul film changes its look and keeps the habit topic.
+
 ### What to take from Last Soul
 1. A helper character can deliver the turn with one simple, doable instruction ("Can you run one minute?"). The viewer leaves with something to try today.
 2. Show the technique as steps on screen (a 1:00 timer, a three-line "how to stay calm" list) and let him practise them.
