@@ -292,6 +292,14 @@ LUST has 58K views in 9 days, far ahead of the rest (MOTIVATION 1.8K, DISCIPLINE
 - Title: "DISCIPLINE." / "five more minutes." (pink) "Or five a.m." "Pick one today."
 - Overlap: stairs as the climb (FOCUS), a hilltop sunrise (HEAVY.), the snooze topic (NOT TODAY's AWAKE).
 
+### Monk Mode Films repackages its films (October 18, later the same day)
+Screenshot: `thumbnails/monkmode_channel_oct18_repackaged.png`. 708 subscribers (286 two days earlier). The same films now carry new titles and thumbnails:
+- "He Sent Her 41 Texts" is titled MONK MODE again, and its thumbnail word changed from SEEN. to TEXT HER. (the villain's order, with the villain's face glowing behind him). 6.9K views.
+- CONSISTENCY's thumbnail changed from DELETE CHANNEL? to WHY NOT ME? (him crying in a grid of other people's videos with millions of views; his own shows "4 views"). 4.9K.
+- LUST PART 2 launched with YOU EARNED IT. (the villain whispering in his ear while he holds the phone). 3.7K in 5 hours.
+- STAY. (the villain as a blanket pulling him back from a 5:00 alarm) and COME BACK. now sit on other films.
+What it shows: they test and swap thumbnail words after publishing. The new words are lines the villain says or the question the hero asks himself ("YOU EARNED IT.", "TEXT HER.", "WHY NOT ME?"), not the topic name. A villain line in the thumbnail promises the fight inside.
+
 ### What to take from Monk Mode Films
 1. A HUD that measures time since the habit, not a score: CHECKED HER PAGE goes from "just now" to "forgot". The payoff is a word, not a number.
 2. The ending as a choice: "Tonight is day one. Or one more night." It puts the decision on the viewer the same night they watch.
@@ -303,6 +311,7 @@ LUST has 58K views in 9 days, far ahead of the rest (MOTIVATION 1.8K, DISCIPLINE
 8. Make the sequel when one film breaks out (LUST at 58K became LUST PART 2), and open it where the first one ended.
 9. The villain's voice can change over the film: loud and strange at first, then written in his own handwriting. "On day one, it shouts. On day four hundred, it sounds like you."
 10. Let a child's drawing be the verdict (DOPAMINE: a phone for a head, then his face).
+11. Thumbnail words can be the villain's line or the hero's question ("YOU EARNED IT.", "TEXT HER.", "WHY NOT ME?") instead of the topic. Make two thumbnails per film and swap if the first stalls.
 
 Topics taken by Monk Mode Films: getting over an ex and no contact (MONK MODE, SEEN., COME BACK.), consistency with no audience (CONSISTENCY, 400 HOURS.), motivation, phone addiction (His Phone Was Swallowing Him), procrastination (365 Days of Tomorrow), waking up (4:59.), lust and relapse after a long streak (LUST, LUST PART 2, JUST ONE MORE.), phone dopamine and family (DOPAMINE), discipline and 5 AM (DISCIPLINE).
 
