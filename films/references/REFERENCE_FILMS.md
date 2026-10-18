@@ -318,6 +318,40 @@ Topics taken by Monk Mode Films: getting over an ex and no contact (MONK MODE, S
 ### Last Soul, October 17: 3.35K subscribers, 3 videos
 1 MINUTE has 205K views in 6 days, TEMPER 23K in 8 days, CONNECTED 10K in 2 days. Three distinct films with three distinct thumbnails (a split before/after, a white background with a red demon, a heart and a phone's notification pills) still beat channels that post a fixed template daily. 1 MINUTE's small, doable promise ("one minute") is the strongest hook we have seen.
 
+## A fifth channel: INNER WAR (@innerwarfilms), October 18
+Tagline on its end card: "INNER WAR. What you feed, grows." Screenshot: `thumbnails/innerwar_channel.png`. Rounder characters with skin tones and clothes, blue night rooms, a hooded villain with white eyes that grows as he feeds it. Views 600 to 2.3K per film. Its titles join a story hook and the topic word: "He Thought It Was Just 5 Minutes | LUST", "He Said "Tomorrow" For 16 Years | LATER", "I'll Show You Next Time, Nana | Not Good Enough", "You're Falling Behind | Comparison". It also runs a series with a named hero: ROOK (Ep. 1 BROKE., Ep. 2 NOISE.). Thumbnails: yellow brush lettering with a red outline (JUST 5 MINUTES, TOO LATE, BE THE ROOK), a hooded villain behind a scared face.
+
+### LATER: He Said "Tomorrow" For 16 Years (2:21) `innerwar_later_*.jpg` (with transcript)
+- Hook: a birthday cake, 24 candles, a thought bubble "record my first song". "Everyone has a Later." 7:02 PM, the sofa, the guitar on the wall; the villain: "Just one more episode." NEXT EPISODE IN 5. "You're too tired today." Friend Jay: "OPEN MIC FRIDAY. PLAY WITH US?" A stranger's video "1.2M views, wrote this in my bedroom".
+- Device: the birthday cake, one candle more each year (24, 25, 28), the same thought bubble every time. "Later." "There's always next year."
+- Turn: "Are you still watching?" on the TV, and his future self, old and grey, on the sofa: "I was you. I said 'later' too."
+- The lesson as bold on-screen steps: "START FOR 2 MINUTES." (a 2-minute timer) "MAKE IT EASY TO START." "MAKE IT TINY." ("Today: one chord. G") "PICK A TIME AND PLACE." (a calendar "PLAY, repeat every day"). A card "INSTEAD: [ ] START FOR 2 MINUTES".
+- Payoff: DAY 100, on stage with Jay at the open mic. Title "LATER." Then an end card: "INNER WAR / What you feed, grows. / Next film".
+- Overlap: same title as our LATER. (theirs is about putting off your own dream; ours about putting off time with a parent). Theirs came out first (9 days ago). Our LATER. should be published with a story title that makes the difference clear (see below).
+
+### LUST: He Thought It Was Just 5 Minutes (2:29) `innerwar_lust_*.jpg` (with transcript)
+- Hook: his face lit by the phone in bed; a shelf of unread books; a red silhouette of a woman on the screen; the villain, small at first, grows with every night he feeds it. "Just five more minutes." He slams the 8:02 alarm.
+- Cost: late to work, distracted at a café date; the villain's hand takes the phone on the table: "You don't need her. You need me." Dozens of white eyes in the dark room.
+- Turn: "NO." on the wall. A vertical bar "The urge peaks." that rises and falls at 12:11.
+- Practice: DAY 1 "RUN IT OUT.", DAY 7 "READ.", DAY 14 "LIGHTS OUT BY 11." The card "INSTEAD: [x] PHONE OUT OF THE BEDROOM [x] BREATHE. THE URGE PASSES."
+- Relapse: "Missed me?" Then "A slip isn't a fall." Payoff: he meets her again in the street, looking at her, not the phone. Title "LUST." and the INNER WAR end card.
+
+### ROOK Ep. 1: BROKE. (3:30) `innerwar_rook1_*.jpg` (with visual transcript)
+- A named hero, ROOK (orange beanie, a plaster on his cheek). Hook: coins counted onto a table, BALANCE $3.40. A box on the shelf: "DAD". An EVICTION NOTICE: 7 DAYS. Rejection emails ("Unfortunately, we have decided..."), an empty fridge, a CLOSED sign, his CV stamped into the rain by a passer-by's shoe.
+- Rock bottom: the notice reads 1 DAY; packing, he knocks the DAD box off the shelf; inside, a chess set and a rook.
+- Turn: a memory of his father at the chess board; the rook in his palm. "Be the rook."
+- Payoff: he picks up his CV, opens the door into a bright street: "Move." End card: "ROOK. EVERY MOVE COUNTS. Next move ->" and "EP 2: NOISE."
+- What it does: a series. The same hero comes back, so viewers follow him, not just a topic. Each episode ends on the next one's title.
+
+### What to take from INNER WAR
+1. Spell the practical steps out on screen as bold commands ("START FOR 2 MINUTES." "MAKE IT TINY." "PICK A TIME AND PLACE.") and gather them on an "INSTEAD:" card with tick boxes. Our films show the practice; one clear card with two or three steps would make the advice screenshot-able.
+2. A story title next to the topic word: "He Said "Tomorrow" For 16 Years | LATER". It tells the viewer the story before the click.
+3. A future self as the voice of the turn ("I was you. I said 'later' too.").
+4. A named series hero who returns in episode 2 with a new problem and an end card that names the next episode.
+5. The villain grows as he feeds it, and shrinks when he doesn't: the size of the villain is a meter.
+
+Topics taken by INNER WAR: putting off a dream (LATER), lust, money and losing a job (ROOK: BROKE.), distraction (ROOK: NOISE.), not feeling good enough for a grandparent, comparison, "just 5 minutes".
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
@@ -341,4 +375,5 @@ Topics taken by Monk Mode Films: getting over an ex and no contact (MONK MODE, S
 - SOLD. and CONSISTENCY both put "2:07 am" on screen (a coincidence). The next late-night film uses a different time.
 - Monk Mode's films open in bed at 3:17 AM with the villain by the bed, as SOLD. and HEAVY. do. The next film should open somewhere other than a bed at night.
 - DOPAMINE measures the person with a battery icon, the device of our 1%. 1%. came first, but the two would look alike side by side.
+- INNER WAR published "He Said "Tomorrow" For 16 Years | LATER" before our LATER. Same title word, different story (his own dream vs time with his dad). Publish ours as "He Kept Saying "Next Week" To His Dad | LATER." so the two do not read as the same film.
 

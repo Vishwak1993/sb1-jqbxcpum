@@ -36,3 +36,5 @@ Your dad is 71. If you're lucky, that's 780 more Sundays.
 - [ ] Thumbnail checked next to other thumbnails at small size
 - [ ] Title exactly as above
 - [ ] 1080p processing finished before making it public
+
+**Title note (October 18):** the channel INNER WAR has published "He Said "Tomorrow" For 16 Years | LATER", a different story under the same word. Use a story title so ours stands apart: **He Kept Saying "Next Week" To His Dad | LATER.**
