@@ -437,6 +437,19 @@ The numbers (2 weeks or less for most): DISCIPLINE 3.9M, DOPAMINE 366K, Motivati
 - Payoff: the court with friends at dusk, the girl at the lockers: "hey!" "But it was real." Closing line: "Choose real." Then a like/subscribe card and the Skool card ("Want to make videos like this?").
 - What it does well: the replacement for the habit is people, not willpower ("He reached out instead."); the same three places (court, lockers, bed) from the opening come back changed.
 
+## Monk Mode Films, October 19: LUST VS LOVE (2:51) `monkmode_lustlove_*.jpg` (with transcript: music and chapter names)
+Screenshot (user, October 19): 2.07K subscribers (708 the day before), 8 videos. LUST VS LOVE 27K views in 6 hours, LUST PART 2 85K in 1 day, MONK MODE 13K in 3 days. Their third film on lust: the topic that broke out became a series, and each new one starts faster than the last.
+- Hook: a black card, "He had seen a thousand women." Then him in bed at 3:17 AM, the villain lying beside him: "just one more." (They still open on black and it works for them, because their audience now arrives already expecting the channel. A new channel has no such audience: keep our picture openings.)
+- Device: two counters top-left, SEEN 1,003 (pink, climbing fast with every scroll) and KNOWN 0 (white, never moving). "The phone gave him a new face every second. She only had one." A full-screen card: SEEN 1,140 / KNOWN 0.
+- The other person is planted at the bus stop in the rain: a girl with a yellow umbrella and a scarf, reading a green book. "share?" She asks him out ("coffee? saturday?"); at the café he keeps looking at his phone; she says "finished it. your turn." and leaves the book; "She was right there."
+- Rock bottom: alone in bed again, the villain: "see? you don't need her." "He could look at a thousand women." Then the book: a note inside, "look up sometimes :)". "Lust took his eyes. Love was asking for them."
+- Practice: DAY 1., DAY 4 (a relapse, the villain's pink glow over the bed), DAY 11 ("thanks." to a barista, he looks people in the eye), a calendar of green ticks to DAY 30. He switches the phone off at 7:48.
+- Payoff: the bus stop, the yellow umbrella, KNOWN 1. Walking together at sunset: "He had seen a thousand women. He finally saw one."
+- Title: LUST vs LOVE. "Lust shows you everyone. Love shows you someone." Then the choice: "Look up. Or one more scroll." (pink).
+- Thumbnail: "1,000 OR 1?" A number question; a row of pink silhouettes on the left, the girl with the yellow umbrella on the right, his big worried face in the middle.
+- What to take: (1) when a topic breaks out, make the next film on it from a new side (PART 2, then VS); (2) two counters that contrast quantity with one real thing (SEEN vs KNOWN); (3) a warm object that belongs to the other person (the yellow umbrella, the book) carries the payoff; (4) a numbers-question thumbnail ("1,000 OR 1?").
+- Overlap check: a yellow umbrella at a rainy bus stop is close to our RAIN. (umbrellas, a bus stop). RAIN. was made first; no change needed, but our next films avoid umbrellas and bus stops.
+
 ## Patterns across all of them
 1. First 5 seconds: one past-tense caption about "he" that states the pain ("He was going to start."). Or a happy before-shot that will be lost (COMFORT ZONE).
 2. A device on screen from the first minute that measures the pain: a bar, bpm, a map, a calendar, notes. It gets worse in act 1, stalls at rock bottom, and changes meaning at the turn.
