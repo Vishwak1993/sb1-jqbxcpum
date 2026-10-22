@@ -29,3 +29,6 @@ films/**/voice_cache/
 films/**/__pycache__/
 *.onnx
 voices-v1.0.bin
+
+# Short cutting scratch files
+films/*/shorts/work/
